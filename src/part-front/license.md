@@ -14,7 +14,7 @@ The latest version of this book, together with updates, errata and additional re
 
 ## Book License
 
-*Seven Vector Databases in Seven Days* is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0).
+*Generative AI: A Manager’s Guide* is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0).
 
 You are free to copy and redistribute this book in any medium or format under the following conditions:
 
