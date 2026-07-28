@@ -1,6 +1,6 @@
 # Appendix A: Decision Framework Templates
 
-This appendix collects the key decision frameworks from across the book in a single reference. Each template is designed to be used directly — in a meeting, a governance review or a planning session. They are starting points, not fixed formats. Adapt them to your organization's terminology and context.
+This appendix collects the key decision frameworks from across the book in a single reference. Each template is designed to be used directly - in a meeting, a governance review or a planning session. They are starting points, not fixed formats. Adapt them to your organization's terminology and context.
 
 ## A-1: The Augmentation Audit
 
@@ -19,10 +19,10 @@ For each significant task, score it High / Medium / Low on two dimensions, then 
 *High if the task depends on experience, relationships, accountability, tacit organizational knowledge or consequential judgment. Low if it is primarily mechanical or templated.*
 
 **Recommendation:**
-- High AI suitability + Low human value-add → delegate to intern with light oversight
-- High on both → hybrid: AI handles volume and first pass, people handle judgment
-- Low AI suitability + High human value-add → keep with people
-- Low on both → question whether the task needs to be done at all
+- High AI suitability + Low human value-add -> delegate to intern with light oversight
+- High on both -> hybrid: AI handles volume and first pass, people handle judgment
+- Low AI suitability + High human value-add -> keep with people
+- Low on both -> question whether the task needs to be done at all
 
 *Copy this block for each task in the role or workflow.*
 
@@ -56,31 +56,31 @@ Use this to assign and record supervision levels for AI-assisted tasks.
 
 **Task description:** _______________________________________________
 
-**Reversibility** — can errors be corrected before they cause harm?
-- [ ] High — output reviewed by human before acting
-- [ ] Medium — errors detectable quickly after acting
-- [ ] Low — errors may not surface until harm is done
+**Reversibility** - can errors be corrected before they cause harm?
+- [ ] High - output reviewed by human before acting
+- [ ] Medium - errors detectable quickly after acting
+- [ ] Low - errors may not surface until harm is done
 
-**Verifiability** — can a human quickly check whether the output is correct?
-- [ ] High — easily checked against a source
-- [ ] Medium — requires some effort to verify
-- [ ] Low — difficult or time-consuming to verify
+**Verifiability** - can a human quickly check whether the output is correct?
+- [ ] High - easily checked against a source
+- [ ] Medium - requires some effort to verify
+- [ ] Low - difficult or time-consuming to verify
 
-**Stakes** — what is the consequence if the output is wrong?
-- [ ] High — significant harm to individuals, organization or reputation
-- [ ] Medium — correctable but costly
-- [ ] Low — minor and easily fixed
+**Stakes** - what is the consequence if the output is wrong?
+- [ ] High - significant harm to individuals, organization or reputation
+- [ ] Medium - correctable but costly
+- [ ] Low - minor and easily fixed
 
-**Familiarity** — how well do we know how the intern performs on this task type?
-- [ ] High — strong track record on this specific task type
-- [ ] Medium — some experience, some uncertainty
-- [ ] Low — new task type, no track record
+**Familiarity** - how well do we know how the intern performs on this task type?
+- [ ] High - strong track record on this specific task type
+- [ ] Medium - some experience, some uncertainty
+- [ ] Low - new task type, no track record
 
 **Recommended supervision level:**
-- [ ] Level 1 — review everything (any High stakes or Low familiarity)
-- [ ] Level 2 — spot check (Medium stakes, Medium familiarity)
-- [ ] Level 3 — exception-based (Low stakes, High familiarity, clear escalation rules)
-- [ ] Level 4 — autonomous (Low stakes, High reversibility, High verifiability only)
+- [ ] Level 1 - review everything (any High stakes or Low familiarity)
+- [ ] Level 2 - spot check (Medium stakes, Medium familiarity)
+- [ ] Level 3 - exception-based (Low stakes, High familiarity, clear escalation rules)
+- [ ] Level 4 - autonomous (Low stakes, High reversibility, High verifiability only)
 
 **Named owner:** _______________________________________________
 
@@ -90,43 +90,43 @@ Use this to assign and record supervision levels for AI-assisted tasks.
 
 Use this to document and manage the seven risks of AI adoption in your organization. Complete one row per risk. Review quarterly.
 
-**Risk 1 — Confident wrong answers**
+**Risk 1 - Confident wrong answers**
 - Likelihood in our context (High / Medium / Low): _______
 - Potential impact (High / Medium / Low): _______
 - Mitigations in place: _______________________________________________
 - Owner: _______________________________________________
 
-**Risk 2 — Data leakage**
+**Risk 2 - Data leakage**
 - Likelihood: _______
 - Impact: _______
 - Mitigations: _______________________________________________
 - Owner: _______________________________________________
 
-**Risk 3 — Regulatory exposure**
+**Risk 3 - Regulatory exposure**
 - Likelihood: _______
 - Impact: _______
 - Mitigations: _______________________________________________
 - Owner: _______________________________________________
 
-**Risk 4 — Bias in decisions**
+**Risk 4 - Bias in decisions**
 - Likelihood: _______
 - Impact: _______
 - Mitigations: _______________________________________________
 - Owner: _______________________________________________
 
-**Risk 5 — Reputational harm**
+**Risk 5 - Reputational harm**
 - Likelihood: _______
 - Impact: _______
 - Mitigations: _______________________________________________
 - Owner: _______________________________________________
 
-**Risk 6 — Skill atrophy**
+**Risk 6 - Skill atrophy**
 - Likelihood: _______
 - Impact: _______
 - Mitigations: _______________________________________________
 - Owner: _______________________________________________
 
-**Risk 7 — Cost overrun**
+**Risk 7 - Cost overrun**
 - Likelihood: _______
 - Impact: _______
 - Mitigations: _______________________________________________
@@ -139,7 +139,7 @@ Use this to document and manage the seven risks of AI adoption in your organizat
 Use this before presenting a business case for an AI initiative.
 
 **Problem statement**
-- [ ] The problem is stated in terms of what the organization currently spends time or money on — not in terms of what AI can do
+- [ ] The problem is stated in terms of what the organization currently spends time or money on - not in terms of what AI can do
 - [ ] The problem is specific and measurable
 
 **Costs**
@@ -192,7 +192,7 @@ Use these at each stage transition to decide whether to proceed, refine or stop.
 
 *All gates should be assessed by someone independent of the team that ran the current stage.*
 
-## A-7: The Ten Board Questions — Prepared Answers Template
+## A-7: The Ten Board Questions - Prepared Answers Template
 
 Use this to prepare for a board-level conversation about AI. Complete before the meeting.
 
