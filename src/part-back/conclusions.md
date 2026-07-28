@@ -1,4 +1,4 @@
-# Conclusions: Managing the Intern Well
+# Conclusions
 
 At the start of this book, we introduced a metaphor: your Digital Intern. Brilliant, tireless, extraordinarily well-read — and in need of careful management.
 
