@@ -1,0 +1,16 @@
+[book]
+authors = ["Akmal Chaudhri"]
+language = "en"
+src = "src"
+title = "Generative AI: A Manager's Guide"
+description = "A Manager's Guide"
+
+[output.html]
+hash-files = true
+git-repository-url = "https://github.com/gen-ai-managers-guide/gen-ai-managers-guide.github.io"
+edit-url-template = "https://github.com/gen-ai-managers-guide/gen-ai-managers-guide.github.io/edit/main/{path}"
+no-section-label = true
+
+[output.html.search]
+limit-results = 20
+use-boolean-and = true
