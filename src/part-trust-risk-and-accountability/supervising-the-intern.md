@@ -14,7 +14,7 @@ At one end is **full supervision**: the intern produces output, a human reads an
 
 The right position on this spectrum is not fixed. It changes as you learn more about how your intern performs on specific types of tasks, as the stakes of particular outputs change, and as your organization builds the verification processes needed to operate safely at lower supervision levels.
 
-> **MARGIN — The Supervision Spectrum**
+> **MARGIN - The Supervision Spectrum**
 > *Full supervision at one end. Full autonomy at the other. Most tasks belong somewhere in the middle and the right position depends on the stakes of getting it wrong. Start closer to full supervision. Move toward autonomy only when you have evidence it is safe to do so.*
 
 ## Four Supervision Levels
@@ -33,7 +33,7 @@ Four positions on the spectrum are worth naming precisely, because they correspo
 
 *Figure 3-1. Supervision Spectrum.*
 
-> **MARGIN — Which Level?**
+> **MARGIN - Which Level?**
 > *Ask two questions for any task: what is the cost if the output is wrong and how detectable is an error before it causes harm? High cost or low detectability means a higher supervision level. Low cost and high detectability allows you to move down the spectrum.*
 
 ## What Makes a Task Safe to Delegate
@@ -52,7 +52,7 @@ Not all tasks are equal candidates for reduced supervision. Four factors determi
 
 *Figure 3-2. Delegation Matrix.*
 
-> **MARGIN — The Delegation Test**
+> **MARGIN - The Delegation Test**
 > *Before reducing supervision on any task, ask: is this reversible, verifiable, low-stakes and familiar? If the answer to all four is yes, reduced supervision is reasonable. If the answer to any one is no, think carefully before stepping back.*
 
 ## The Autonomy Trap
@@ -63,7 +63,7 @@ The result is an organization that is applying spot-check oversight to tasks tha
 
 The defense against the autonomy trap is simple but requires discipline. Supervision levels should be set explicitly for each task type, reviewed periodically and reset to a higher level whenever the scope of the task changes. The fact that the intern has performed well on task A does not mean it will perform equally well on task B, even if A and B look similar from the outside.
 
-> **MARGIN — Reset the Defaults**
+> **MARGIN - Reset the Defaults**
 > *When a task changes scope, treat it as a new task. The intern's track record on the old version does not transfer automatically. Supervision levels should be set deliberately, not inherited.*
 
 ## Safety and the Limits of Intern Judgment
@@ -76,14 +76,14 @@ The second is outputs that carry legal or regulatory exposure. Any output that w
 
 The third is outputs in novel or ambiguous situations. The intern performs best on tasks it has seen many variations of. Novel situations, where the right approach is genuinely uncertain, are exactly where the intern's tendency to produce confident, plausible-sounding output is most dangerous. Human judgment is most valuable precisely where the intern seems most sure.
 
-> **MARGIN — The Non-Negotiables**
-> *Decisions that affect individuals, outputs with legal or regulatory exposure and novel situations where the right answer is genuinely uncertain — these require human review regardless of supervision level. They are not candidates for delegation.*
+> **MARGIN - The Non-Negotiables**
+> *Decisions that affect individuals, outputs with legal or regulatory exposure and novel situations where the right answer is genuinely uncertain - these require human review regardless of supervision level. They are not candidates for delegation.*
 
 ## Building a Supervision Framework
 
 A supervision framework does not need to be complex. What it needs to do is make supervision levels explicit, assign responsibility clearly and provide a mechanism for review.
 
-A practical framework has three components. First, a task register: a list of the tasks your organization uses the intern for, with a supervision level assigned to each and the rationale for that level recorded. Second, a review trigger: a defined set of conditions that cause a supervision level to be reconsidered. A task moving to a new audience, a change in the regulatory environment, a cluster of errors on a previously reliable task type — any of these should trigger a review. Third, accountability: a named person responsible for each task category, who owns the supervision level and the decision to change it.
+A practical framework has three components. First, a task register: a list of the tasks your organization uses the intern for, with a supervision level assigned to each and the rationale for that level recorded. Second, a review trigger: a defined set of conditions that cause a supervision level to be reconsidered. A task moving to a new audience, a change in the regulatory environment, a cluster of errors on a previously reliable task type - any of these should trigger a review. Third, accountability: a named person responsible for each task category, who owns the supervision level and the decision to change it.
 
 This does not require a large governance structure. For most organizations starting out with AI, a single document maintained by whoever owns the AI program is sufficient. What matters is that supervision levels are recorded rather than assumed, and revisited rather than set once and forgotten.
 
@@ -91,8 +91,8 @@ This does not require a large governance structure. For most organizations start
 
 *Figure 3-3. Supervision Framework.*
 
-> **MARGIN — Write It Down**
-> *A supervision framework that exists only in people's heads is not a framework. Write down which tasks your intern handles, at what supervision level and who is responsible. Review it quarterly. The document is evidence that you are managing this thoughtfully — which matters when someone asks.*
+> **MARGIN - Write It Down**
+> *A supervision framework that exists only in people's heads is not a framework. Write down which tasks your intern handles, at what supervision level and who is responsible. Review it quarterly. The document is evidence that you are managing this thoughtfully - which matters when someone asks.*
 
 ## Chapter Summary
 
@@ -103,4 +103,4 @@ This does not require a large governance structure. For most organizations start
 - Some categories of output require human review regardless of supervision level: decisions affecting individuals, outputs with legal or regulatory exposure and novel situations.
 - A practical supervision framework records task types, supervision levels, review triggers and named accountability.
 
-*Next: Chapter 4 — What Can Go Wrong: The Seven Risks of Generative AI*
+*Next: Chapter 4 - What Can Go Wrong: The Seven Risks of Generative AI*
