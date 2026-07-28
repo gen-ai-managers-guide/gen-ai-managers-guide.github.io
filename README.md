@@ -1,2 +1,2 @@
 # gen-ai-managers-guide.github.io
-A Manager's Guide
+Generative AI: A Manager's Guide
