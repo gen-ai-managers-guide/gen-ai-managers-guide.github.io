@@ -76,11 +76,11 @@ The mitigation is to treat certain skills as deliberate practice rather than opt
 
 ## Risk 7: Cost Overrun
 
-AI tools are not free, and the costs are not always obvious at the point of adoption. Direct costs include API usage fees that scale with volume, subscription costs for tools and platforms and the cost of storage and infrastructure. Indirect costs include the management time spent on oversight, the cost of errors that reach their destination and the cost of building and maintaining the organizational processes that AI requires.
+AI tools are not free and the costs are not always obvious at the point of adoption. Direct costs include API usage fees that scale with volume, subscription costs for tools and platforms and the cost of storage and infrastructure. Indirect costs include the management time spent on oversight, the cost of errors that reach their destination and the cost of building and maintaining the organizational processes that AI requires.
 
 The risk is that organizations adopt AI on the basis of the productivity gains it promises, without adequately accounting for the costs it introduces. A team that uses AI to produce ten times as much output is not necessarily ten times as productive if the cost of oversight, correction and quality management rises in proportion.
 
-The mitigation is to build realistic cost models before scaling AI use, to monitor actual costs against projections, and to evaluate AI initiatives on net value rather than gross output. The intern's productivity is genuine. So is the cost of supervising them.
+The mitigation is to build realistic cost models before scaling AI use, to monitor actual costs against projections and to evaluate AI initiatives on net value rather than gross output. The intern's productivity is genuine. So is the cost of supervising them.
 
 > **MARGIN - Net Value, Not Gross Output**
 > *The value of AI adoption is the net gain after costs - including oversight, correction and management time. Measure it that way. A tool that produces ten times the output at ten times the oversight cost has broken even, not transformed the business.*
