@@ -79,11 +79,11 @@ Most AI initiatives fail at the transition between stages rather than within a s
 
 ## The Build vs Buy Decision
 
-At some point in the roadmap, most organizations face a build versus buy decision: do we use a general-purpose AI tool from a vendor, or do we build something specific to our needs?
+At some point in the roadmap, most organizations face a build versus buy decision: do we use a general-purpose AI tool from a vendor or do we build something specific to our needs?
 
-The decision depends on four factors. The first is differentiation: does a custom solution create competitive advantage, or is the underlying task generic? Summarizing documents is generic. Applying your organization's specific analytical framework to documents is less so. The more specific the task, the stronger the case for custom development.
+The decision depends on four factors. The first is differentiation: does a custom solution create competitive advantage or is the underlying task generic? Summarizing documents is generic. Applying your organization's specific analytical framework to documents is less so. The more specific the task, the stronger the case for custom development.
 
-The second is data: does the task require training or fine-tuning on your organization's own data, or does a general-purpose model work well enough with the right brief? Many tasks that appear to require custom development can be handled adequately by a well-briefed general-purpose model.
+The second is data: does the task require training or fine-tuning on your organization's own data or does a general-purpose model work well enough with the right brief? Many tasks that appear to require custom development can be handled adequately by a well-briefed general-purpose model.
 
 The third is cost: what is the total cost of custom development, including ongoing maintenance, compared to the ongoing cost of a vendor tool? Custom development costs are routinely underestimated and maintenance costs - which continue indefinitely - are routinely omitted from the comparison.
 
