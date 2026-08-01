@@ -29,9 +29,9 @@ A useful brief has four components. Not all four are needed for every task - a s
 
 **Task.** State what you need, specifically. Not *help me with the report* but *write a one-page executive summary of the attached report, in plain English, for a board audience with no technical background*. The more specific the task, the more precisely the intern can direct their considerable fluency at the right target.
 
-**Context.** Provide the information the intern does not have. This is the information that lives inside your organisation - your company's situation, your client's preferences, the history of the project, the audience's particular sensitivities. The intern's general knowledge is broad. What it lacks is your specific knowledge. Context is how you supply it.
+**Context.** Provide the information the intern does not have. This is the information that lives inside your organization - your company's situation, your client's preferences, the history of the project, the audience's particular sensitivities. The intern's general knowledge is broad. What it lacks is your specific knowledge. Context is how you supply it.
 
-**Constraints.** Tell the intern what not to do, or what the limits are. *No longer than 300 words. Avoid technical jargon. Do not recommend a specific vendor.* Constraints save rounds of revision. Without them, the intern will make plausible choices about format and scope - and plausible is not always right.
+**Constraints.** Tell the intern what not to do or what the limits are. *No longer than 300 words. Avoid technical jargon. Do not recommend a specific vendor.* Constraints save rounds of revision. Without them, the intern will make plausible choices about format and scope - and plausible is not always right.
 
 ![](the-briefing-room-media/figure2.png)
 
@@ -44,7 +44,7 @@ A useful brief has four components. Not all four are needed for every task - a s
 
 There is a temptation, when writing instructions to an AI system, to become either too formal - as though writing a specification document - or too casual, as though sending a text message. Neither works especially well.
 
-The register that works best is the one a good manager uses when briefing a capable person: direct, specific and respectful of the recipient's intelligence. You do not need to explain the obvious. You do not need to soften the request. You do not need to say please, though it does no harm. What you need to do is say clearly what you want, give the intern the information they need to produce it, and specify the form you want it in.
+The register that works best is the one a good manager uses when briefing a capable person: direct, specific and respectful of the recipient's intelligence. You do not need to explain the obvious. You do not need to soften the request. You do not need to say please, though it does no harm. What you need to do is say clearly what you want, give the intern the information they need to produce it and specify the form you want it in.
 
 A useful test: read the brief back and ask whether a capable, well-intentioned person with no prior knowledge of your organization or the situation could produce what you need from it. If not, something is missing.
 
@@ -53,7 +53,7 @@ A useful test: read the brief back and ask whether a capable, well-intentioned p
 
 ## Iteration Is Not Failure
 
-Most managers find that their first attempt at a brief does not produce exactly what they wanted. This is not a sign that the technology does not work, or that they are doing it wrong. It is the normal pattern of working with any capable collaborator on a complex task.
+Most managers find that their first attempt at a brief does not produce exactly what they wanted. This is not a sign that the technology does not work or that they are doing it wrong. It is the normal pattern of working with any capable collaborator on a complex task.
 
 The intern does not take corrections personally. They do not remember the previous attempt in a new session. They do not become defensive when asked to try again with different parameters. This makes iteration genuinely cheap - cheaper, in many respects, than iterating with a human colleague who has invested effort in the first version.
 
@@ -79,9 +79,9 @@ The technique works because the intern has encountered a great deal of text writ
 > **MARGIN - The Devil's Advocate**
 > *Ask the intern to argue against your proposal before you present it. Give them the brief, then ask: what would a sceptical board member say? What has been missed? What would concern a cautious CFO? The objections are worth having before the meeting, not during it.*
 
-## What Belongs in the Brief, and What Does Not
+## What Belongs in the Brief and What Does Not
 
-There are things that should always go into a brief, and things that are a waste of space.
+There are things that should always go into a brief and things that are a waste of space.
 
 **Include:** the audience for the output, the purpose it will serve, the form you want it in, the length or scope, any specific information the intern needs that they would not otherwise have and any constraints on what the output should or should not contain.
 
@@ -101,7 +101,7 @@ A well-crafted brief for a recurring task is reusable. The brief that produces a
 This is an organizational skill, not just an individual one. Teams that develop a shared library of effective briefs find that the quality of AI output across the team rises - not because the intern has improved, but because the organization has become better at directing it.
 
 > **MARGIN - The Reusable Brief**
-> *A brief that works once can work every time. When a brief produces genuinely useful output, save it. Strip out the specific context, leave the structure and the constraints, and you have a template. That template is an asset.*
+> *A brief that works once can work every time. When a brief produces genuinely useful output, save it. Strip out the specific context, leave the structure and the constraints and you have a template. That template is an asset.*
 
 ## Chapter Summary
 
