@@ -39,7 +39,7 @@ AI systems that produce new content - text, images, code, audio - rather than ju
 The policies, processes and accountability structures that determine how AI is used in an organization. Good AI governance specifies who is responsible for what, what oversight is required and how decisions are made and recorded. The absence of governance is not the absence of AI use - it is the absence of visibility and control over AI use.
 
 **Guardrails**
-Technical or procedural constraints placed on an AI system to prevent it producing certain types of output. Guardrails may be built into the AI system itself by its developer, or added by the organization deploying it. They reduce but do not eliminate risk.
+Technical or procedural constraints placed on an AI system to prevent it producing certain types of output. Guardrails may be built into the AI system itself by its developer or added by the organization deploying it. They reduce but do not eliminate risk.
 
 **Hallucination**
 The production by an AI system of confident, well-formed statements that are factually incorrect. Hallucination is a consequence of how language models work - they predict plausible text rather than retrieve verified facts - and cannot be entirely eliminated. It requires systematic verification of factual claims.
@@ -57,7 +57,7 @@ The type of AI model that underlies most current AI assistants and chatbots. LLM
 The AI system itself - the mathematical structure that has been trained to perform a task. When people refer to "the model," they mean the underlying AI system, distinct from the interface through which you access it. Different models have different capabilities, costs and limitations.
 
 **Multimodal**
-Capable of processing or producing multiple types of content - text, images, audio, video. Multimodal AI systems can, for example, analyze an image and describe it in text, or generate an image from a text description. Increasingly common in commercial AI systems.
+Capable of processing or producing multiple types of content - text, images, audio, video. Multimodal AI systems can, for example, analyze an image and describe it in text or generate an image from a text description. Increasingly common in commercial AI systems.
 
 **Prompt**
 The instruction or input you give to an AI system. The quality of the prompt significantly affects the quality of the output. Prompt engineering is the practice of designing prompts to reliably produce good output - reframed in this book as the management skill of briefing your Digital Intern well.
