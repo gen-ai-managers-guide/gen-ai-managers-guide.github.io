@@ -14,7 +14,7 @@ The latest version of this book, together with updates, errata and additional re
 
 ## Book License
 
-*Generative AI: A Manager’s Guide* is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0).
+*Generative AI: A Manager's Guide* is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0).
 
 You are free to copy and redistribute this book in any medium or format under the following conditions:
 
@@ -54,4 +54,4 @@ Examples are provided solely to illustrate technical concepts, patterns and soft
 
 Readers are responsible for independently validating all code, configurations and recommendations before using them in production environments.
 
-To the fullest extent permitted by law, the author shall not be liable for any direct, indirect, incidental, special, consequential or other damages arising from the use of, or inability to use, the information, code or techniques described in this book.
+To the fullest extent permitted by law, the author shall not be liable for any direct, indirect, incidental, special, consequential or other damages arising from the use of or inability to use, the information, code or techniques described in this book.
