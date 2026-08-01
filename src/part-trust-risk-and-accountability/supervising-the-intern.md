@@ -2,7 +2,7 @@
 
 Every manager who has hired a capable but inexperienced person has faced the same question: how much rope do you give them? Too little and you waste their potential, spend your own time doing work they could handle and signal that you do not trust them to deliver. Too much and you expose your organization to avoidable mistakes, find yourself fixing errors that should have been caught and lose the confidence of clients or colleagues who expected more control.
 
-The same question applies to your Digital Intern, and the stakes are higher than most managers initially realize. The intern is fast, tireless and available at any hour. Left unsupervised, they can produce and act on a great deal of output in a short time. Some of that output will be excellent. Some will be subtly wrong. A small amount may be seriously problematic. The question is not whether to supervise, but how much and under what conditions.
+The same question applies to your Digital Intern and the stakes are higher than most managers initially realize. The intern is fast, tireless and available at any hour. Left unsupervised, they can produce and act on a great deal of output in a short time. Some of that output will be excellent. Some will be subtly wrong. A small amount may be seriously problematic. The question is not whether to supervise, but how much and under what conditions.
 
 This chapter gives you a framework for answering that question consistently.
 
@@ -12,7 +12,7 @@ It helps to think of supervision not as a binary choice between full control and
 
 At one end is **full supervision**: the intern produces output, a human reads and approves every piece before it acts on anything or reaches anyone. At the other end is **full autonomy**: the intern produces output and acts on it directly, with no human review. Between these extremes sit several intermediate positions, each appropriate for a different combination of task type, output stakes and intern reliability.
 
-The right position on this spectrum is not fixed. It changes as you learn more about how your intern performs on specific types of tasks, as the stakes of particular outputs change, and as your organization builds the verification processes needed to operate safely at lower supervision levels.
+The right position on this spectrum is not fixed. It changes as you learn more about how your intern performs on specific types of tasks, as the stakes of particular outputs change and as your organization builds the verification processes needed to operate safely at lower supervision levels.
 
 > **MARGIN - The Supervision Spectrum**
 > *Full supervision at one end. Full autonomy at the other. Most tasks belong somewhere in the middle and the right position depends on the stakes of getting it wrong. Start closer to full supervision. Move toward autonomy only when you have evidence it is safe to do so.*
@@ -85,7 +85,7 @@ A supervision framework does not need to be complex. What it needs to do is make
 
 A practical framework has three components. First, a task register: a list of the tasks your organization uses the intern for, with a supervision level assigned to each and the rationale for that level recorded. Second, a review trigger: a defined set of conditions that cause a supervision level to be reconsidered. A task moving to a new audience, a change in the regulatory environment, a cluster of errors on a previously reliable task type - any of these should trigger a review. Third, accountability: a named person responsible for each task category, who owns the supervision level and the decision to change it.
 
-This does not require a large governance structure. For most organizations starting out with AI, a single document maintained by whoever owns the AI program is sufficient. What matters is that supervision levels are recorded rather than assumed, and revisited rather than set once and forgotten.
+This does not require a large governance structure. For most organizations starting out with AI, a single document maintained by whoever owns the AI program is sufficient. What matters is that supervision levels are recorded rather than assumed and revisited rather than set once and forgotten.
 
 ![](supervising-the-intern-media/figure3.png)
 
