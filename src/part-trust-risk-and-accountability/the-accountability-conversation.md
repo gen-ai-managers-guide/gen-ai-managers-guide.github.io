@@ -73,7 +73,7 @@ At the **operational level**, accountability is for individual outputs: followin
 
 One of the most practical things a manager can do to prepare for the accountability conversation is to ensure that AI-assisted decisions leave a trail. Not an elaborate one - a proportionate one. The question the audit trail needs to answer is: if this output caused harm, could we show what happened, who was involved and what checks were made?
 
-A minimal audit trail for AI-assisted decisions has four elements. First, a record that AI was used: what system, for what purpose, on what date. Second, a record of what the output was, or at least what it was used for. Third, a record of what human review was applied before the output was acted upon. Fourth, a record of who made the final decision.
+A minimal audit trail for AI-assisted decisions has four elements. First, a record that AI was used: what system, for what purpose, on what date. Second, a record of what the output was or at least what it was used for. Third, a record of what human review was applied before the output was acted upon. Fourth, a record of who made the final decision.
 
 For high-volume, low-stakes applications this can be lightweight - a log file, a workflow record or a process note. For high-stakes applications it needs to be more deliberate. A regulated decision supported by AI output that has no audit trail is a compliance risk, regardless of whether the output was correct.
 
