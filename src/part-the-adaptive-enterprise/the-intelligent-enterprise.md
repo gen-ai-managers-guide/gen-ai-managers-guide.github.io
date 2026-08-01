@@ -61,7 +61,7 @@ Just as Chapter 5 prepared managers for board-level questions about AI, this cha
 9. What organizational capabilities - skills, processes, culture - are we building for the long term and which are we outsourcing to vendor tools?
 10. If our primary AI vendor disappeared tomorrow, what would be the impact and how quickly could we recover?
 
-An executive who cannot answer these questions confidently does not have governance - they have activity. The difference matters when something goes wrong, when a regulator asks, or when a competitor makes a move that requires a rapid strategic response.
+An executive who cannot answer these questions confidently does not have governance - they have activity. The difference matters when something goes wrong, when a regulator asks or when a competitor makes a move that requires a rapid strategic response.
 
 > **MARGIN - Activity Is Not Governance**
 > *An AI program that produces reports, runs pilots and holds governance committee meetings may or may not have genuine governance. The test is whether the executive can answer the ten questions. If not, the program has activity.*
