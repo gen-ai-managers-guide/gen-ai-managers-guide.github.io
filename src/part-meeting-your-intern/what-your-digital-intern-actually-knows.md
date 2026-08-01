@@ -44,7 +44,7 @@ A large language model does not have that signal. It produces the most plausible
 
 This is the origin of what is called hallucination - the production of confident, well-formed statements that are simply untrue. It is not deception. The intern is not trying to mislead you. They are doing what they were trained to do, which is produce fluent, contextually appropriate text. When that text happens to contain a made-up figure, a misattributed quote or a fictitious case reference, the intern does not notice, because they have no mechanism for noticing.
 
-The managerial implication is direct. You would not send a new hire's first draft of a client document out without reading it. You would not accept their summary of a legal agreement as a substitute for reading the agreement. The same instincts apply here, and they apply consistently - not just in the first week, but as a permanent feature of working with this kind of system.
+The managerial implication is direct. You would not send a new hire's first draft of a client document out without reading it. You would not accept their summary of a legal agreement as a substitute for reading the agreement. The same instincts apply here and they apply consistently - not just in the first week, but as a permanent feature of working with this kind of system.
 
 ![](what-your-digital-intern-actually-knows-media/figure2.png)
 
@@ -63,7 +63,7 @@ Within a single session, the intern does have working memory. They can refer to 
 
 This is not a bug that will eventually be fixed, though memory capabilities are evolving. It is a consequence of how these systems work and it shapes how you should use them. Any context that matters needs to be provided at the start of each task. Any established way of working needs to be included in the instructions you give, every time.
 
-For managers accustomed to working with teams who accumulate shared context over months and years, this is a genuine adjustment. The intern is not growing in their understanding of your organisation, your clients, your preferences or your standards. They are reset, completely, at the start of each session.
+For managers accustomed to working with teams who accumulate shared context over months and years, this is a genuine adjustment. The intern is not growing in their understanding of your organization, your clients, your preferences or your standards. They are reset, completely, at the start of each session.
 
 ![](what-your-digital-intern-actually-knows-media/figure3.png)
 
@@ -93,7 +93,7 @@ Given these limitations, it is worth being specific about where the Digital Inte
 
 There are things the intern will attempt that they should not be given unsupervised. Understanding these is as important as understanding their strengths.
 
-**Anything requiring current information.** The intern's knowledge has a cutoff date. Events after that date simply did not make it into their reading. They may not know this or may not know exactly where their knowledge ends. Asking the intern about today's market conditions, a recent regulatory change, or the latest version of a software platform is asking them to work beyond their reliable territory. Some AI systems can search the web to supplement their knowledge - even then, the quality of what they retrieve needs checking.
+**Anything requiring current information.** The intern's knowledge has a cutoff date. Events after that date simply did not make it into their reading. They may not know this or may not know exactly where their knowledge ends. Asking the intern about today's market conditions, a recent regulatory change or the latest version of a software platform is asking them to work beyond their reliable territory. Some AI systems can search the web to supplement their knowledge - even then, the quality of what they retrieve needs checking.
 
 **Anything requiring verified facts.** Figures, dates, statistics, legal references, specific attributions - anything that will appear in a document as a verified fact should be checked against a primary source. The intern will produce plausible figures. Plausible is not the same as accurate.
 
@@ -108,11 +108,11 @@ There are things the intern will attempt that they should not be given unsupervi
 
 There is a temptation, when encountering AI for the first time, to reach for either extreme. Either it is a remarkable oracle that knows everything and can be trusted implicitly or it is an unreliable gimmick that produces confident nonsense and cannot be trusted at all. Both views lead to poor management.
 
-The Digital Intern is neither. It is a capable, tireless, well-read colleague who produces high-quality first drafts, handles volume tasks without complaint, and communicates fluently in any register you require - but who needs clear instructions, works without memory of previous conversations, and cannot reliably distinguish what they know from what they have confidently guessed.
+The Digital Intern is neither. It is a capable, tireless, well-read colleague who produces high-quality first drafts, handles volume tasks without complaint and communicates fluently in any register you require - but who needs clear instructions, works without memory of previous conversations and cannot reliably distinguish what they know from what they have confidently guessed.
 
-That description maps directly onto something most managers already know how to handle: a talented new hire who needs supervision, context and checking. The tools for managing the intern well are not technical tools. They are management tools - clarity of instruction, appropriate oversight, sensible verification, and a clear sense of what decisions require human judgement.
+That description maps directly onto something most managers already know how to handle: a talented new hire who needs supervision, context and checking. The tools for managing the intern well are not technical tools. They are management tools - clarity of instruction, appropriate oversight, sensible verification and a clear sense of what decisions require human judgement.
 
-The rest of this book works through what that looks like in practice. How much autonomy is appropriate, and when? What can go wrong and how do you mitigate it? How do you talk about this to a board? How do you calculate whether it is worth the investment? What does your organization look like when you have embedded AI thoughtfully rather than hastily?
+The rest of this book works through what that looks like in practice. How much autonomy is appropriate and when? What can go wrong and how do you mitigate it? How do you talk about this to a board? How do you calculate whether it is worth the investment? What does your organization look like when you have embedded AI thoughtfully rather than hastily?
 
 Those are managerial questions. They have managerial answers.
 
@@ -125,7 +125,7 @@ Those are managerial questions. They have managerial answers.
 - It produces confident answers regardless of whether those answers are correct. The fluency is not a signal of accuracy.
 - It has no memory between sessions. Any context that matters must be provided with each task.
 - It excels at first drafts, document transformation, generating multiple options and applying a consistent approach at volume.
-- It should not be used unsupervised for current information, verified facts, organisation-specific judgements or final decisions.
+- It should not be used unsupervised for current information, verified facts, organization-specific judgements or final decisions.
 - The right mental model is a talented, well-read new hire who needs clear instructions, appropriate oversight and a manager who knows what to keep.
 
 *Next: Chapter 2 - The Briefing Room: Prompts, Context and Instructions*
