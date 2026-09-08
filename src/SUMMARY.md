@@ -42,3 +42,4 @@
 - [Appendix A: Decision Framework Templates](part-appendices/decision-framework-templates.md)
 - [Appendix B: A Manager's Glossary](part-appendices/a-managers-glossary.md)
 - [Appendix C: Further Reading](part-appendices/further-reading.md)
+- [Free books](part-appendices/free-books.md)
