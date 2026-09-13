@@ -11,7 +11,3 @@ Under the following terms:
 - **NoDerivatives** — If you remix, transform or build upon the material, you may not distribute the modified material
 
 Full license text: https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode
-
----
-
-The code in this repository (notebooks, SQL, Python, R scripts and all files under `code/`) is licensed under the Apache License 2.0 — see the `LICENSE` file for details.
