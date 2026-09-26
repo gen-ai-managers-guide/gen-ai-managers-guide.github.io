@@ -44,7 +44,7 @@ Low value, low effort: do selectively. These are the experiments - low stakes, l
 
 Low value, high effort: do not start. These are the initiatives that emerge from enthusiasm rather than analysis. They consume budget and attention without producing proportionate value and they crowd out the high-value work.
 
-![](the-first-week-media/figure1.png)
+![](the-first-week-media/image1.png)
 
 *Figure 6-1. Quick Win Filter.*
 
@@ -63,7 +63,7 @@ The second invisible cost is process change. Introducing AI into an existing wor
 
 The third invisible cost is error correction. Some proportion of AI outputs will be wrong and correcting them takes time. In a well-designed workflow this proportion is small and the correction is fast. In a poorly designed one it is neither. The error correction cost is genuinely difficult to estimate in advance, but ignoring it is a mistake.
 
-![](the-first-week-media/figure2.png)
+![](the-first-week-media/image2.png)
 
 *Figure 6-2. Real Cost Model.*
 
@@ -80,7 +80,7 @@ The cost estimate has been covered above. What matters on the benefit side is be
 
 The success metrics close the loop. They allow the organization to know, at a defined point in the future, whether the initiative delivered what was promised - and to make an informed decision about whether to continue, expand or stop. A business case without success metrics is a commitment without accountability.
 
-![](the-first-week-media/figure3.png)
+![](the-first-week-media/image3.png)
 
 *Figure 6-3. Intern ROI Calculation.*
 

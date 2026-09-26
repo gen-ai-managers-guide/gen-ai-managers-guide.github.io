@@ -6,7 +6,7 @@ This failure pattern is common enough to have a name in some organizations: the 
 
 This chapter provides that roadmap. Four stages, each with a different focus and a different set of decisions. Understanding where you are and what the next stage requires is the most reliable way to avoid the trap.
 
-![](the-roadmap-media/figure1.png)
+![](the-roadmap-media/image1.png)
 
 *Figure 8-1. Adoption Stages.*
 
@@ -70,7 +70,7 @@ Most AI initiatives fail at the transition between stages rather than within a s
 
 **Scale to embed** is the third failure point and the least visible. The initiative appears to be working. Volume is high, users are trained, results look good. But the governance is still being maintained by the project team that launched the initiative and when that team moves on to other things, the governance deteriorates. The capability persists but the quality assurance that made it reliable does not.
 
-![](the-roadmap-media/figure2.png)
+![](the-roadmap-media/image2.png)
 
 *Figure 8-2. Failure Points.*
 
@@ -98,7 +98,7 @@ A stage-gate is a defined checkpoint at which the organization decides whether t
 
 Each stage-gate has a set of questions that must be answered satisfactorily before the initiative proceeds. The questions are not a bureaucratic hurdle - they are the evidence of learning that justifies the next investment.
 
-![](the-roadmap-media/figure3.png)
+![](the-roadmap-media/image3.png)
 
 *Figure 8-3. Stage-Gate Checklist.*
 

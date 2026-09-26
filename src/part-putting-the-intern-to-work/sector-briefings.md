@@ -6,7 +6,7 @@ This chapter provides eight self-contained briefings, one for each of the sector
 
 One caveat applies to all eight. AI capabilities and the regulatory environment are both moving quickly. The briefings reflect the landscape as of mid-2026. The broad patterns are durable; specific regulatory details should be verified against current guidance before being relied upon.
 
-![](sector-briefings-media/figure1.png)
+![](sector-briefings-media/image1.png)
 
 *Figure 7-1. Sector Map.*
 
@@ -86,7 +86,7 @@ Retail AI intersects with consumer protection law, advertising standards and, in
 > **MARGIN - Retail**
 > *Customer-facing content needs human review before publication - the reputational stakes of a mistake are proportional to how many customers see it. Personalization initiatives that touch pricing should be reviewed for regulatory compliance before scaling.*
 
-![](sector-briefings-media/figure2.png)
+![](sector-briefings-media/image2.png)
 
 *Figure 7-2. Regulatory Watchlist.*
 
@@ -166,7 +166,7 @@ Public sector AI is subject to general data protection law, human rights obligat
 > **MARGIN - Public Sector**
 > *AI-assisted decisions must be explicable and defensible against public law principles. Any application that affects individuals' rights or entitlements requires human review capability. Check current government AI governance guidance for your jurisdiction.*
 
-![](sector-briefings-media/figure3.png)
+![](sector-briefings-media/image3.png)
 
 *Figure 7-3. Adoption Maturity.*
 

@@ -27,7 +27,7 @@ This makes them remarkably fluent. Language is their native medium in a way that
 
 It also means their knowledge has edges that can be hard to detect. The intern learned from what was written and what was written is not a perfect representation of reality. It over-represents some things - popular topics, English-language sources, material published on the internet - and under-represents others. They may be confident about subjects where the written record is thin or skewed and appropriately hesitant about subjects where their reading was comprehensive. You cannot always tell from the outside which is which.
 
-![](what-your-digital-intern-actually-knows-media/figure1.png)
+![](what-your-digital-intern-actually-knows-media/image1.png)
 
 *Figure 1-1. The Knowledge Map.*
 
@@ -46,7 +46,7 @@ This is the origin of what is called hallucination - the production of confident
 
 The managerial implication is direct. You would not send a new hire's first draft of a client document out without reading it. You would not accept their summary of a legal agreement as a substitute for reading the agreement. The same instincts apply here and they apply consistently - not just in the first week, but as a permanent feature of working with this kind of system.
 
-![](what-your-digital-intern-actually-knows-media/figure2.png)
+![](what-your-digital-intern-actually-knows-media/image2.png)
 
 *Figure 1-2. Confidence vs. Accuracy.*
 
@@ -65,7 +65,7 @@ This is not a bug that will eventually be fixed, though memory capabilities are 
 
 For managers accustomed to working with teams who accumulate shared context over months and years, this is a genuine adjustment. The intern is not growing in their understanding of your organization, your clients, your preferences or your standards. They are reset, completely, at the start of each session.
 
-![](what-your-digital-intern-actually-knows-media/figure3.png)
+![](what-your-digital-intern-actually-knows-media/image3.png)
 
 *Figure 1-3. Memory and the Session Reset.*
 

@@ -29,7 +29,7 @@ Four positions on the spectrum are worth naming precisely, because they correspo
 
 **Level 4: Autonomous operation.** The intern produces and acts on output without routine human review. This is appropriate only for low-stakes, well-defined, highly repeatable tasks where the cost of an error is low and the error is easily detected and corrected. Very few tasks that involve external-facing output or consequential decisions belong here.
 
-![](supervising-the-intern-media/figure1.png)
+![](supervising-the-intern-media/image1.png)
 
 *Figure 3-1. Supervision Spectrum.*
 
@@ -48,7 +48,7 @@ Not all tasks are equal candidates for reduced supervision. Four factors determi
 
 **Familiarity.** How well do you know how the intern performs on this specific type of task? An intern who has produced a hundred reliable summaries of a particular document type has a track record. An intern being asked to do something new does not. Familiarity reduces but does not eliminate the need for oversight.
 
-![](supervising-the-intern-media/figure2.png)
+![](supervising-the-intern-media/image2.png)
 
 *Figure 3-2. Delegation Matrix.*
 
@@ -87,7 +87,7 @@ A practical framework has three components. First, a task register: a list of th
 
 This does not require a large governance structure. For most organizations starting out with AI, a single document maintained by whoever owns the AI program is sufficient. What matters is that supervision levels are recorded rather than assumed and revisited rather than set once and forgotten.
 
-![](supervising-the-intern-media/figure3.png)
+![](supervising-the-intern-media/image3.png)
 
 *Figure 3-3. Supervision Framework.*
 

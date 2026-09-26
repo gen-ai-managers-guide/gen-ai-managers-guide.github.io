@@ -1,1 +1,1 @@
-![](cover-media/figure1.png)
+![](cover-media/image1.png)

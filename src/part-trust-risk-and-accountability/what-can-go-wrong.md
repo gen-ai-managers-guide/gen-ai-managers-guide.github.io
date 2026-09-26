@@ -4,7 +4,7 @@ Every technology that enters organizational life brings new failure modes. Some 
 
 This chapter maps seven risks that any organization using generative AI needs to manage. They are not theoretical. Each has been observed in real organizations and in some cases has caused real harm. Understanding them does not guarantee they will be avoided, but it makes avoidance considerably more likely.
 
-![](what-can-go-wrong-media/figure1.png)
+![](what-can-go-wrong-media/image1.png)
 
 *Figure 4-1. The Seven Risks.*
 
@@ -93,14 +93,14 @@ Managing these risks well requires treating them as a system rather than a check
 
 The goal is not to eliminate risk. AI adoption involves genuine uncertainty and some level of risk is unavoidable. The goal is to take risk deliberately, with awareness of what you are accepting and why, rather than by default.
 
-![](what-can-go-wrong-media/figure2.png)
+![](what-can-go-wrong-media/image2.png)
 
 *Figure 4-2. Risk Register.*
 
 > **MARGIN - The Risk Register**
 > *Document the seven risks, their likelihood in your context, their potential impact and your mitigations. Review it quarterly. It is not just good governance - it is the evidence that you are making deliberate choices rather than hoping for the best.*
 
-![](what-can-go-wrong-media/figure3.png)
+![](what-can-go-wrong-media/image3.png)
 
 *Figure 4-3. Risk and Mitigation Pairs.*
 

@@ -27,7 +27,7 @@ The audit maps the tasks that make up a role or workflow against two dimensions.
 
 The audit produces four categories of task. Tasks that are high on AI suitability and low on human value-add are candidates for delegation to the intern with light oversight. Tasks that are low on AI suitability and high on human value-add stay with people. Tasks that score high on both require a hybrid approach - AI handles the volume and first-pass work, people handle the judgment and refinement. Tasks that score low on both are worth questioning regardless of AI.
 
-![](redesigning-work-media/figure1.png)
+![](redesigning-work-media/image1.png)
 
 *Figure 9-1. Augmentation Audit.*
 
@@ -46,7 +46,7 @@ The second challenge is identity. People often have strong attachments to the pa
 
 The third challenge is measurement. If a role's output was previously measured by volume - documents processed, calls handled, reports produced - and augmentation means the person now handles far fewer but higher-value tasks, the old metrics no longer reflect the contribution. Managers who redesign roles without redesigning how those roles are measured create people who are doing better work but appearing to do less.
 
-![](redesigning-work-media/figure2.png)
+![](redesigning-work-media/image2.png)
 
 *Figure 9-2. Role Redesign Model.*
 
@@ -65,7 +65,7 @@ The second part is honest acknowledgment of what is uncertain. Not every redesig
 
 The third part is genuine attention to the person's concerns. The concerns will vary: some people will worry about job security, some about their ability to perform in a changed role, some about the loss of work they valued. None of these concerns should be dismissed. Each deserves a real response, which may mean a real commitment to training, to adjusted timelines or to revised expectations.
 
-![](redesigning-work-media/figure3.png)
+![](redesigning-work-media/image3.png)
 
 *Figure 9-3. Change Conversation Framework.*
 

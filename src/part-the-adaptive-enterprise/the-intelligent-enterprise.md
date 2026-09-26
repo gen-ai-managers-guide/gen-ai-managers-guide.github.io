@@ -25,7 +25,7 @@ The third is from adoption to adaptation: the AI landscape will continue to chan
 
 Most organizations are somewhere on a journey from ad hoc AI use to genuine organizational capability. Understanding where your organization is on that journey is the first step to leading it deliberately toward the next stage.
 
-![](the-intelligent-enterprise-media/figure1.png)
+![](the-intelligent-enterprise-media/image1.png)
 
 *Figure 10-1. AI Maturity Model.*
 
@@ -46,7 +46,7 @@ Most organizations are somewhere on a journey from ad hoc AI use to genuine orga
 
 Just as Chapter 5 prepared managers for board-level questions about AI, this chapter prepares executives for the questions that define genuine AI leadership. These are not the defensive questions a board asks - they are the strategic questions an executive should be asking themselves.
 
-![](the-intelligent-enterprise-media/figure2.png)
+![](the-intelligent-enterprise-media/image2.png)
 
 *Figure 10-2. Ten Executive Questions.*
 
@@ -78,7 +78,7 @@ The case for organizational capability is that it is genuinely durable. Vendors 
 
 The right answer is not to build everything internally. Vendor tools will remain the primary delivery mechanism for AI capability in most organizations. The right answer is to ensure that the organization's understanding of what it is doing - its ability to direct, evaluate and govern its AI use - resides in the organization, not in the vendor relationship.
 
-![](the-intelligent-enterprise-media/figure3.png)
+![](the-intelligent-enterprise-media/image3.png)
 
 *Figure 10-3. Capability vs Dependency.*
 

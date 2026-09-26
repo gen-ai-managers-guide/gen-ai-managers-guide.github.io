@@ -14,7 +14,7 @@ This shifts something important. Managers who approach AI as a time-saving tool 
 
 The good news is that briefing a Digital Intern draws on skills most managers already have. Clarity. Specificity. An understanding of the audience. A clear sense of what success looks like. These are not new skills. What is new is applying them to a conversation with a piece of software.
 
-![](the-briefing-room-media/figure1.png)
+![](the-briefing-room-media/image1.png)
 
 *Figure 2-1. Brief Investment vs Output Quality.*
 
@@ -33,7 +33,7 @@ A useful brief has four components. Not all four are needed for every task - a s
 
 **Constraints.** Tell the intern what not to do or what the limits are. *No longer than 300 words. Avoid technical jargon. Do not recommend a specific vendor.* Constraints save rounds of revision. Without them, the intern will make plausible choices about format and scope - and plausible is not always right.
 
-![](the-briefing-room-media/figure2.png)
+![](the-briefing-room-media/image2.png)
 
 *Figure 2-2. The Four-Part Brief.*
 
@@ -59,7 +59,7 @@ The intern does not take corrections personally. They do not remember the previo
 
 When the output is not right, the question to ask is not *what did the intern do wrong* but *what did the brief not specify*. In most cases, the second brief - which adds the missing element, narrows the scope or corrects a misunderstood constraint - produces something substantially better. The quality of output improves not because the intern learns, but because the manager's brief gets more precise.
 
-![](the-briefing-room-media/figure3.png)
+![](the-briefing-room-media/image3.png)
 
 *Figure 2-3. The Iteration Loop.*
 

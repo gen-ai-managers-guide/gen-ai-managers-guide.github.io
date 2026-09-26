@@ -25,7 +25,7 @@ Experience across organizations that have had formal board-level AI discussions 
 
 These are not trick questions. They are the questions a thoughtful non-executive director would ask about any significant operational change. The manager who can answer all ten confidently is in a strong position.
 
-![](the-accountability-conversation-media/figure1.png)
+![](the-accountability-conversation-media/image1.png)
 
 *Figure 5-1. Ten Board Questions.*
 
@@ -62,7 +62,7 @@ At the **manager level**, accountability is for implementation and supervision: 
 
 At the **operational level**, accountability is for individual outputs: following the guidelines set by management, flagging uncertainty or error and not representing AI-generated content as independently verified when it has not been. The intern produces the output. The person who acts on it is accountable for having checked it appropriately.
 
-![](the-accountability-conversation-media/figure2.png)
+![](the-accountability-conversation-media/image2.png)
 
 *Figure 5-2. Accountability Stack.*
 
@@ -90,7 +90,7 @@ A practical sign-off protocol specifies three things. First, the categories of o
 
 The sign-off protocol does not need to cover every AI output. It needs to cover the outputs where a failure to check would be consequential. Calibrating that scope is itself a governance decision that belongs at the manager or executive level.
 
-![](the-accountability-conversation-media/figure3.png)
+![](the-accountability-conversation-media/image3.png)
 
 *Figure 5-3. Sign-Off Protocol.*
 
