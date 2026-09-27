@@ -39,7 +39,7 @@ Healthcare organizations have found AI most useful in three areas that do not di
 
 The stakes of error in clinical contexts are higher than in almost any other sector, which means that the non-negotiable categories from Chapter 3 apply in force. AI does not make clinical decisions. It supports the people who do. Any deployment that blurs this boundary - that presents AI output as clinical guidance rather than a tool for clinicians - is a governance failure, not just a risk.
 
-Patient data is protected by stringent privacy regulation in most jurisdictions and the regulatory requirements for handling health data are more demanding than those for most other data categories. The data leakage risk discussed in Chapter 4 applies with particular severity.
+Patient data are protected by stringent privacy regulation in most jurisdictions and the regulatory requirements for handling health data are more demanding than those for most other data categories. The data leakage risk discussed in Chapter 4 applies with particular severity.
 
 **The regulatory context**
 
