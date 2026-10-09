@@ -1,4 +1,4 @@
-# Generative AI: A Manager's Guide
+# Welcome
 
 ## How to Cite This Book
 
