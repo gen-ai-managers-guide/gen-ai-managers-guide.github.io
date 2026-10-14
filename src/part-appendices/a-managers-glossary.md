@@ -3,7 +3,7 @@
 This glossary defines the thirty terms a manager is most likely to encounter in AI conversations. Definitions are written for the boardroom, not the machine room. Technical precision has been traded for useful clarity.
 
 **Agent / AI agent**
-An AI system that can take actions in the world - browsing the web, running code, sending emails, interacting with other software - rather than just producing text. Agents can operate with more autonomy than standard AI assistants and require correspondingly more careful governance. The "Digital Intern" described in this book is a simple agent when it takes actions rather than just producing output.
+An AI system that can take actions in the world - browsing the web, running code, sending emails, interacting with other software - rather than just producing text. Agents can operate with more autonomy than standard AI assistants and require correspondingly more careful governance. The "Digital Intern" described in this book becomes agent-like when it takes actions rather than just producing output, which is where the higher supervision levels in Chapter 3 matter most.
 
 **Artificial general intelligence (AGI)**
 A hypothetical AI system with human-level capability across all cognitive tasks. No current AI system qualifies. The term is often used in strategic discussions and investment contexts; when you encounter it, treat it as speculative rather than descriptive of anything that exists today.
@@ -27,10 +27,10 @@ The risk that sensitive information shared with an AI system leaves the organiza
 A mathematical representation of text as a set of numbers, used to measure the similarity between pieces of text. Embeddings allow AI systems to find content that is similar in meaning rather than just in exact wording. Used in search, recommendation and document retrieval systems.
 
 **Fine-tuning**
-Adapting a general-purpose AI model by training it further on a specific dataset - for example, training a general language model on your organization's documents to make it more familiar with your terminology and style. More involved and expensive than prompting but can produce better results for specific applications.
+Adapting a general-purpose AI model by training it further on a specific dataset - for example, training a general language model on your organization's documents to make it more familiar with your terminology and style. More involved and expensive than prompting but can produce better results for specific applications. Fine-tuning tends to shape style and behavior more than it reliably adds new knowledge.
 
 **Foundation model**
-A large AI model trained on broad data that can be adapted to a wide range of tasks. The models that power most commercial AI applications - including the systems described in this book - are foundation models. Examples include GPT-4, Claude and Gemini.
+A large AI model trained on broad data that can be adapted to a wide range of tasks. The models that power most commercial AI applications - including the systems described in this book - are foundation models. Several of the major AI vendors each offer their own families of them.
 
 **Generative AI**
 AI systems that produce new content - text, images, code, audio - rather than just classifying or analyzing existing content. The systems this book is primarily concerned with are generative AI systems that produce text.
@@ -42,7 +42,7 @@ The policies, processes and accountability structures that determine how AI is u
 Technical or procedural constraints placed on an AI system to prevent it producing certain types of output. Guardrails may be built into the AI system itself by its developer or added by the organization deploying it. They reduce but do not eliminate risk.
 
 **Hallucination**
-The production by an AI system of confident, well-formed statements that are factually incorrect. Hallucination is a consequence of how language models work - they predict plausible text rather than retrieve verified facts - and cannot be entirely eliminated. It requires systematic verification of factual claims.
+The production by an AI system of confident, well-formed statements that are factually incorrect. Hallucination is a consequence of how language models work - they predict plausible text rather than look up verified facts - and is unlikely to be fully eliminated. Tools that add retrieval or search can reduce it but not remove it. It requires systematic verification of factual claims.
 
 **Human in the loop**
 A design principle for AI systems in which a human reviews and approves AI output before it is acted upon. The degree of human involvement can vary from reviewing everything to reviewing only flagged exceptions. Central to the supervision frameworks discussed in this book.
@@ -66,13 +66,13 @@ The instruction or input you give to an AI system. The quality of the prompt sig
 The practice of designing effective instructions for AI systems. Includes techniques for specifying role, task, context and constraints clearly and for iterating on prompts to improve output quality. The subject of Chapter 2 of this book.
 
 **RAG (retrieval-augmented generation)**
-A technique for giving AI systems access to specific documents or data sources when generating responses. Rather than relying only on what the model learned during training, a RAG system retrieves relevant content from a defined set of documents and uses it to inform the response. Useful for applications requiring access to organizational knowledge.
+A technique for giving AI systems access to specific documents or data sources when generating responses. Rather than relying only on what the model learned during training, a RAG system retrieves relevant content from a defined set of documents and uses it to inform the response. Useful for applications requiring access to organizational knowledge. RAG can reduce hallucination but does not remove it, so outputs still need checking.
 
 **Risk appetite**
 The level of AI-related risk an organization is willing to accept in pursuit of its objectives. Risk appetite should be set explicitly at board or executive level, not left to emerge from individual project decisions. It determines what supervision levels are appropriate and what categories of AI use are permissible.
 
 **Supervision level**
-The degree of human oversight applied to AI output before it is acted upon. This book defines four levels: review everything, spot check, exception-based review and autonomous operation. The appropriate level depends on the stakes, reversibility and verifiability of the output.
+The degree of human oversight applied to AI output before it is acted upon. This book defines four levels: review everything, spot check, exception-based review and autonomous operation. The appropriate level depends on the stakes, reversibility, verifiability and familiarity of the task.
 
 **System prompt**
 Instructions given to an AI system before the user's input, typically by the organization or developer deploying the system rather than the end user. System prompts set the AI's role, behavior and constraints for a given application. They are a primary governance tool for organizations building AI-powered products.
@@ -84,7 +84,7 @@ A setting that controls how predictable or varied an AI system's output is. Low 
 The unit in which AI systems process text. A token is roughly equivalent to three-quarters of a word in English. AI systems have limits on how many tokens they can process at once (context window) and charge for usage based on tokens processed.
 
 **Training data**
-The text, images or other content used to train an AI model. The model learns patterns from this data, which determines both its capabilities and its limitations. Training data that over-represents certain sources or perspectives will produce a model with corresponding biases.
+The text, images or other content used to train an AI model. The model learns patterns from these data, which determine both its capabilities and its limitations. Training data that over-represent certain sources or perspectives will produce a model with corresponding biases.
 
 **Use case**
 A specific application of AI to a defined task or problem. "Using AI to draft client emails" is a use case. "Using AI" is not. Identifying specific use cases before investing in AI tools is a prerequisite for sensible business case development and governance design.

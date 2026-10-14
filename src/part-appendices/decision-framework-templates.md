@@ -1,6 +1,8 @@
 # Appendix A: Decision Framework Templates
 
-This appendix collects the key decision frameworks from across the book in a single reference. Each template is designed to be used directly - in a meeting, a governance review or a planning session. They are starting points, not fixed formats. Adapt them to your organization's terminology and context.
+This appendix collects the main decision frameworks from across the book in a single reference. Each template is designed to be used directly - in a meeting, a governance review or a planning session. They are starting points, not fixed formats. Adapt them to your organization's terminology and context.
+
+Some frameworks are described in their chapters rather than templated here, such as the build vs buy factors in Chapter 8 and the change conversation in Chapter 9.
 
 ## A-1: The Augmentation Audit
 
@@ -19,10 +21,11 @@ For each significant task, score it High / Medium / Low on two dimensions, then 
 *High if the task depends on experience, relationships, accountability, tacit organizational knowledge or consequential judgment. Low if it is primarily mechanical or templated.*
 
 **Recommendation:**
-- High AI suitability + Low human value-add -> delegate to intern with light oversight
+- High AI suitability + Low human value-add -> delegate to the intern, with the supervision level set using A-3
 - High on both -> hybrid: AI handles volume and first pass, people handle judgment
 - Low AI suitability + High human value-add -> keep with people
 - Low on both -> question whether the task needs to be done at all
+- Medium or mixed scores -> start with the hybrid approach and a higher supervision level, then adjust as evidence builds
 
 *Copy this block for each task in the role or workflow.*
 
@@ -56,10 +59,17 @@ Use this to assign and record supervision levels for AI-assisted tasks.
 
 **Task description:** _______________________________________________
 
-**Reversibility** - can errors be corrected before they cause harm?
-- [ ] High - output reviewed by human before acting
-- [ ] Medium - errors detectable quickly after acting
-- [ ] Low - errors may not surface until harm is done
+**Step 0: Non-negotiable check.** Does this task fall into any of these categories?
+- [ ] Decisions that affect individuals in consequential ways (hiring, performance, credit, access to services)
+- [ ] Outputs with legal or regulatory exposure
+- [ ] Novel or ambiguous situations where the right answer is genuinely uncertain
+
+*If any box is ticked, human review is required regardless of the levels below.*
+
+**Reversibility** - can errors be corrected after the fact?
+- [ ] High - errors are easily corrected after the fact
+- [ ] Medium - errors can be corrected, with effort or cost
+- [ ] Low - errors are hard to undo once the output has been acted upon
 
 **Verifiability** - can a human quickly check whether the output is correct?
 - [ ] High - easily checked against a source
@@ -77,18 +87,20 @@ Use this to assign and record supervision levels for AI-assisted tasks.
 - [ ] Low - new task type, no track record
 
 **Recommended supervision level:**
-- [ ] Level 1 - review everything (any High stakes or Low familiarity)
-- [ ] Level 2 - spot check (Medium stakes, Medium familiarity)
-- [ ] Level 3 - exception-based (Low stakes, High familiarity, clear escalation rules)
-- [ ] Level 4 - autonomous (Low stakes, High reversibility, High verifiability only)
+- [ ] Level 1 - review everything (any non-negotiable category, or any High stakes, Low familiarity, Low reversibility or Low verifiability)
+- [ ] Level 2 - spot check (Medium stakes, Medium familiarity, and at least Medium reversibility and verifiability)
+- [ ] Level 3 - exception-based (Low stakes, High familiarity, and clear escalation criteria set from outside, such as output type, thresholds, sensitive topics or automated checks - not the intern's own confidence)
+- [ ] Level 4 - autonomous (Low stakes, a well-defined and repeatable task, High familiarity, High reversibility and High verifiability only)
 
 **Named owner:** _______________________________________________
 
 **Review date:** _______________________________________________
 
+*Record the result in the task register (A-8).*
+
 ## A-4: The Risk Register
 
-Use this to document and manage the seven risks of AI adoption in your organization. Complete one row per risk. Review quarterly.
+Use this to document and manage the seven risks of AI adoption in your organization. Complete one block per risk. Review quarterly.
 
 **Risk 1 - Confident wrong answers**
 - Likelihood in our context (High / Medium / Low): _______
@@ -102,7 +114,7 @@ Use this to document and manage the seven risks of AI adoption in your organizat
 - Mitigations: _______________________________________________
 - Owner: _______________________________________________
 
-**Risk 3 - Regulatory exposure**
+**Risk 3 - Regulatory and legal exposure**
 - Likelihood: _______
 - Impact: _______
 - Mitigations: _______________________________________________
@@ -153,8 +165,14 @@ Use this before presenting a business case for an AI initiative.
 **Benefits**
 - [ ] Time saved per task specified
 - [ ] Volume of tasks specified
+- [ ] What the recovered time will be used for specified
 - [ ] Value of recovered time specified and justified
 - [ ] Assumptions listed explicitly and available for challenge
+
+**Scalable-win test**
+- [ ] It applies to a large enough volume of work to produce meaningful aggregate savings
+- [ ] It improves in value with use
+- [ ] It frees time that was genuinely constrained, rather than just speeding up an existing task
 
 **Success metrics**
 - [ ] Specific metrics defined
@@ -164,7 +182,7 @@ Use this before presenting a business case for an AI initiative.
 
 ## A-6: The Stage-Gate Questions
 
-Use these at each stage transition to decide whether to proceed, refine or stop.
+Use these at each stage transition to decide whether to proceed, refine or stop. The stages are described in Chapter 8.
 
 **Gate into Prove** (experiment complete when...)
 - [ ] Output quality meets the defined bar
@@ -173,7 +191,7 @@ Use these at each stage transition to decide whether to proceed, refine or stop.
 - [ ] A decision document has been written and reviewed independently
 
 **Gate into Scale** (prove complete when...)
-- [ ] Consistent results over at least three months of production use
+- [ ] Consistent results over typically at least three months of production use
 - [ ] Error tracking in place and reviewed
 - [ ] Supervision levels explicit and maintained
 - [ ] A scaling plan documented before scaling begins
@@ -216,7 +234,7 @@ Use this to prepare for a board-level conversation about AI. Complete before the
 
    *Your answer:* _______________________________________________
 
-5. How do we know when AI output has been checked before it was acted upon?
+5. How do we know when AI output has been checked before it's acted upon?
 
    *Your answer:* _______________________________________________
 
@@ -230,7 +248,7 @@ Use this to prepare for a board-level conversation about AI. Complete before the
 
    *Your answer:* _______________________________________________
 
-8. What is it costing us, including the costs we do not see directly?
+8. What is it costing us, including the costs we don't see directly?
 
    *Your answer:* _______________________________________________
 
@@ -241,5 +259,120 @@ Use this to prepare for a board-level conversation about AI. Complete before the
    *Your answer:* _______________________________________________
 
 10. What decisions do we need to make at board level about AI in the next twelve months?
+
+    *Your answer:* _______________________________________________
+
+## A-8: The Task Register
+
+Use this to record the tasks your organization uses AI for and the supervision level assigned to each (Chapter 3). Complete one block per task or task category. Review quarterly and whenever a review trigger occurs.
+
+**Task or task category:** _______________________________________________
+
+**Supervision level (1-4), set using A-3:** _______
+
+**Rationale for that level:** _______________________________________________
+
+**Named owner:** _______________________________________________
+
+**Review triggers** (conditions that cause the level to be reconsidered, such as a new audience, a regulatory change or a cluster of errors): _______________________________________________
+
+**Last reviewed:** _______________________________________________
+
+## A-9: The Audit Trail Record
+
+Use this for any AI-assisted decision that could later be questioned (Chapter 5). For high-volume, low-stakes work a lightweight log can capture the same four elements.
+
+**1. AI use**
+- System: _______________________________________________
+- Purpose: _______________________________________________
+- Date: _______________________________________________
+
+**2. Output** (what it was, or at least what it was used for): _______________________________________________
+
+**3. Human review applied before the output was acted upon:** _______________________________________________
+
+**4. Final decision made by:** _______________________________________________
+
+*These records may themselves contain sensitive information. Apply your data policy to them (Chapter 4).*
+
+## A-10: The Sign-Off Protocol
+
+Use this to define what authorization is required before AI output is acted upon, published or sent (Chapter 5).
+
+**Categories of output that require sign-off before use** (for example customer communications, regulatory submissions, decisions affecting individuals, public statements):
+
+_______________________________________________
+
+**Seniority required to sign off, by category:**
+
+_______________________________________________
+
+**What sign-off means in practice** (what the reviewer must check, not just that a review occurred):
+
+_______________________________________________
+
+*Example of a meaningful standard: "Reviewed for factual accuracy against primary sources by someone with appropriate expertise."*
+
+**Protocol owner:** _______________________________________________
+
+**Review date:** _______________________________________________
+
+## A-11: The Maturity Assessment
+
+Use this to assess honestly where your organization sits on the maturity model in Chapter 10. Tick the level whose description best matches reality today, not where you want to be, and note the evidence.
+
+- [ ] **Level 1 - Experimental.** Individuals and teams use AI independently, with no coordination, policy or systematic evaluation.
+- [ ] **Level 2 - Coordinated.** Approved tools, emerging data policy and some cross-team learning, but fragmented governance.
+- [ ] **Level 3 - Governed.** Clear policies, supervision frameworks and accountability structures, with documented use and active risk management.
+- [ ] **Level 4 - Optimized.** Skilled briefing, calibrated oversight, systematic learning and governance embedded in the workflow.
+- [ ] **Level 5 - Adaptive.** Able to evaluate and absorb new AI developments quickly and wisely.
+
+**Evidence we can point to for the level ticked:** _______________________________________________
+
+**The main risk at this level (see Chapter 10):** _______________________________________________
+
+**Leadership focus for the next level:** _______________________________________________
+
+## A-12: The Ten Executive Questions - Prepared Answers Template
+
+Use this to test whether your AI program has governance or only activity (Chapter 10). Complete before a leadership review.
+
+1. What is our organization's AI risk appetite and who approved it?
+
+   *Your answer:* _______________________________________________
+
+2. Which AI applications in our organization carry the most significant risk and what is being done to manage each?
+
+   *Your answer:* _______________________________________________
+
+3. Who is accountable for AI governance overall and what does that accountability include in practice?
+
+   *Your answer:* _______________________________________________
+
+4. How do we know when AI is being used in ways that fall outside our policies?
+
+   *Your answer:* _______________________________________________
+
+5. What is the total cost of our AI program, including oversight, process change and error correction?
+
+   *Your answer:* _______________________________________________
+
+6. What value has our AI program delivered and how do we know?
+
+   *Your answer:* _______________________________________________
+
+7. How do our AI capabilities compare to our most capable competitors?
+
+   *Your answer:* _______________________________________________
+
+8. What regulatory changes in the next twelve months are most likely to affect our AI program?
+
+   *Your answer:* _______________________________________________
+
+9. What organizational capabilities - skills, processes, culture - are we building for the long term and which are we outsourcing to vendor tools?
+
+   *Your answer:* _______________________________________________
+
+10. If our primary AI vendor disappeared tomorrow, what would be the impact and how quickly could we recover?
 
     *Your answer:* _______________________________________________
