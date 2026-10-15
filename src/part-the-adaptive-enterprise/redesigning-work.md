@@ -1,4 +1,4 @@
-# Chapter 9: Redesigning Work
+# Chapter 9: Redesigning work
 
 Augmentation is a word that has been used so often in discussions of AI that it has started to lose its meaning. It has become a reassurance - a way of saying that AI will help rather than replace - without specifying what help actually looks like in practice or what changes when a capable AI system joins the workflow.
 
@@ -6,7 +6,7 @@ This chapter is about the practical reality of augmentation: what changes, what 
 
 The central argument is simple. Augmentation doesn't mean adding AI to existing work. It means redesigning work around what AI can do well and what people do well, so that the combination produces better results than either could alone. Organizations that add AI without redesigning work often get modest gains. Organizations that redesign work around AI often get something more substantial.
 
-## What Augmentation Actually Means
+## What augmentation actually means
 
 The easiest way to understand augmentation is to contrast it with two alternatives that look similar but aren't.
 
@@ -19,7 +19,7 @@ Augmentation is the third option and the most demanding. It requires identifying
 > **MARGIN - Assistance Is Not Augmentation**
 > *Adding AI as an available tool without changing how work is structured is assistance, not augmentation. Assistance produces modest gains. Augmentation requires deliberately redesigning which parts of the work go to the intern and which stay with the person.*
 
-## The Augmentation Audit
+## The augmentation audit
 
 The starting point for redesigning work is understanding the current work in enough detail to make deliberate decisions about it. The augmentation audit is a structured way of doing this.
 
@@ -36,7 +36,7 @@ Figure 9-1 shows the audit as a map of tasks.
 > **MARGIN - Map Before You Delegate**
 > *The augmentation audit maps every significant task in the role before deciding what to delegate. Delegating without mapping is guessing. The map takes time once. The guessing costs time continuously.*
 
-## How Roles Change
+## How roles change
 
 When augmentation is done well, roles often shift rather than disappear. The parts of the role that were high volume and low judgment move to the intern. The parts that were high judgment and low volume become more central. The person in the role spends less time on the former and more on the latter. That isn't guaranteed for every role: some roles and staffing needs may change more substantially, and it's better to say so plainly than to promise otherwise.
 
@@ -57,7 +57,7 @@ Figure 9-2 sets out a model for redesigning a role.
 > **MARGIN - Redesign the Metrics Too**
 > *When the work changes, the way you measure it needs to change with it. A person handling fewer but higher-value tasks under augmentation should not be measured by the volume metrics designed for the pre-augmentation role.*
 
-## The Change Conversation
+## The change conversation
 
 The most important management skill in augmentation isn't understanding the technology. It's having an honest conversation with the people whose work is changing.
 
@@ -80,7 +80,7 @@ Figure 9-3 summarizes the three parts of the conversation.
 > **MARGIN - Three Parts, Not One**
 > *The change conversation has three parts: transparency about what is changing and why, honest acknowledgment of uncertainty and genuine attention to the person's specific concerns. Skipping any one of the three produces a conversation that feels complete but leaves the person unsatisfied.*
 
-## Designing for Skill Development
+## Designing for skill development
 
 Augmentation changes what skills are most valuable in a role. It doesn't eliminate the need for skill development - it redirects it.
 
@@ -93,7 +93,7 @@ This has implications for how organizations design learning and development prog
 > **MARGIN - Train for the Augmented Role**
 > *Learning and development programs should reflect the skills the augmented role requires, not the skills the pre-augmentation role required. Training people to do what the intern now does is preparing them for a role that no longer exists in its original form. Keep some deliberate practice of the underlying skills, so people can still judge the intern's work.*
 
-## Chapter Summary
+## Chapter summary
 
 - Augmentation means redesigning work around what AI and people each do best. Adding AI without redesigning work produces assistance, not augmentation.
 - The augmentation audit maps tasks against AI suitability and human value-add to identify what to delegate, what to keep and what requires a hybrid approach.

@@ -6,13 +6,13 @@ That leaves leaders in an awkward position. Budgets are being approved, strategi
 
 This book is written for the people in the middle of that situation: the managers, directors and executives who are responsible for making AI work well in their organizations - not the engineers building the technology and not the theorists debating its long-term implications, but the people who need to make a decision about it on Monday morning.
 
-## What This Book Is Not
+## What this book is not
 
 This book doesn't explain how large language models work at a technical level. It doesn't rank AI tools or recommend specific vendors. It doesn't make predictions about which jobs will be automated or what the world will look like in twenty years. And it doesn't assume that AI is either the transformative force its most enthusiastic advocates claim or the overhyped disappointment its skeptics suggest.
 
 What it assumes is that AI is a real and consequential technology that's already present in your organization, that it has genuine strengths and genuine limitations and that managing it well is a management challenge - one that draws on skills you already have, applied to a context that is genuinely new.
 
-## The Central Argument
+## The central argument
 
 The central argument of this book is simple: managing AI is, at its core, a management challenge, not a technical one.
 
@@ -20,7 +20,7 @@ The technology behind modern AI is sophisticated. But the questions that determi
 
 These questions have management answers. They require clarity of thinking, appropriate governance, honest evaluation and the judgment to know what decisions require human accountability and what can be safely delegated. They don't require you to understand transformer architectures or training data pipelines.
 
-## The Digital Intern
+## The digital intern
 
 Throughout this book, we use a single metaphor to carry the argument: your Digital Intern.
 
@@ -34,7 +34,7 @@ This intern needs managing. Not technically - but in exactly the ways that good 
 
 That's what this book teaches you to do.
 
-## How This Book Is Structured
+## How this book is structured
 
 The book is organized in four parts, each addressing a different dimension of managing AI well.
 
@@ -48,7 +48,7 @@ The book is organized in four parts, each addressing a different dimension of ma
 
 The book closes with a Conclusions chapter that returns to the Digital Intern metaphor one final time and three appendices: decision framework templates for direct use, a glossary of thirty essential terms and an annotated further reading list.
 
-## A Note on Pace
+## A note on pace
 
 The AI landscape is moving quickly. Capabilities that seemed remarkable a couple of years ago are now routine, and the tools available to managers a couple of years from now are likely to be more capable still.
 

@@ -1,4 +1,4 @@
-# Chapter 2: The Briefing Room
+# Chapter 2: The briefing room
 
 Most managers discover quickly that their Digital Intern is capable of producing very different quality work depending on how they're asked. The same intern who delivers a sharp, well-structured analysis in one conversation produces something vague and generic in another. The task was similar. The intern was the same. What changed was the quality of the brief.
 
@@ -6,7 +6,7 @@ This isn't a coincidence. It's the central mechanic of working with generative A
 
 That's what this chapter is about. Not the technology behind the brief - but the craft of writing one well.
 
-## The Brief Is the Work
+## The brief is the work
 
 In most management contexts, the brief is the thing you do before the work. You write the brief, hand it off and then the work begins. A human colleague treats it as a starting point: they bring shared context, they ask questions when something's unclear and they fill gaps from what they know of you and your organization.
 
@@ -23,7 +23,7 @@ The good news is that briefing a Digital Intern draws on skills most managers al
 > **MARGIN - The Investment**
 > *With your Digital Intern, the brief is where your attention goes. A quick brief tends to produce quick, generic output. A five-minute brief that clearly specifies the task, the audience, the format and what good looks like will return that investment many times over.*
 
-## Role, Task, Context, Constraints
+## Role, task, context, constraints
 
 A useful brief has four components. Not all four are needed for every task - a simple request can be simple - but when the output disappoints, the missing element is almost always one of these.
 
@@ -42,7 +42,7 @@ A useful brief has four components. Not all four are needed for every task - a s
 > **MARGIN - The Four-Part Brief**
 > *Role, Task, Context, Constraints. For routine tasks, one or two of these will do. For anything important, use all four. The brief takes five minutes. The revision it saves you takes much longer.*
 
-## Talking to the Intern Like a Manager
+## Talking to the intern like a manager
 
 There's a temptation, when writing instructions to an AI system, to become either too formal - as though writing a specification document - or too casual, as though sending a text message. Neither works especially well.
 
@@ -53,7 +53,7 @@ A useful test: read the brief back and ask whether a capable, well-intentioned p
 > **MARGIN - The Capable Stranger Test**
 > *Before sending a brief, ask: could a capable stranger, given only this instruction and nothing else, produce what I need? If the answer is no, the brief is incomplete. Add the missing context before sending.*
 
-## Iteration Is Not Failure
+## Iteration is not failure
 
 Most managers find that their first attempt at a brief doesn't produce exactly what they wanted. This isn't a sign that the technology doesn't work or that they're doing it wrong. It's the normal pattern of working with any capable collaborator on a complex task.
 
@@ -68,7 +68,7 @@ When the output isn't right, the question to ask isn't *what did the intern do w
 > **MARGIN - Why It Missed**
 > *When the output is not what you needed, read the brief rather than the output. The gap between what you asked for and what you got is almost always in the brief. Add the missing element and try again.*
 
-## Giving the Intern a Persona
+## Giving the intern a persona
 
 One of the more powerful techniques available in a brief is asking the intern to take on a specific perspective or expertise for the task. This goes beyond role. A role says what job the intern is doing; a persona says whose eyes they're looking through.
 
@@ -81,7 +81,7 @@ The technique works because the intern has encountered a great deal of text writ
 > **MARGIN - The Devil's Advocate**
 > *Ask the intern to argue against your proposal before you present it. Give them the brief, then ask: what would a skeptical board member say? What has been missed? What would concern a cautious CFO? The objections are worth having before the meeting, not during it.*
 
-## What Belongs in the Brief and What Does Not
+## What belongs in the brief and what does not
 
 There are things that should always go into a brief and things that are a waste of space.
 
@@ -94,7 +94,7 @@ One thing that catches managers out: asking for too many things in a single brie
 > **MARGIN - One Task at a Time**
 > *A brief that contains four tasks often produces four adequate outputs. Four briefs, each with one task, often produce four good ones. Sequence your requests. The intern has no problem with the extra work - and neither will you, once you see the difference in quality.*
 
-## The Brief as an Organizational Asset
+## The brief as an organizational asset
 
 Individual managers who learn to brief their Digital Intern well get better output. Organizations that treat good briefs as an asset - documenting them, sharing them, refining them over time - get something more valuable: consistency.
 
@@ -105,7 +105,7 @@ This is an organizational skill, not just an individual one. Teams that develop 
 > **MARGIN - The Reusable Brief**
 > *A brief that works once can work every time. When a brief produces genuinely useful output, save it. Strip out the specific context, leave the structure and the constraints and you have a template. That template is an asset.*
 
-## Chapter Summary
+## Chapter summary
 
 - The quality of your Digital Intern's output is largely determined by the quality of the brief. This is within your control.
 - A useful brief has four components: role, task, context and constraints. For complex tasks, use all four.

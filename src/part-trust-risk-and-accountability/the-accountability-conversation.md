@@ -1,4 +1,4 @@
-# Chapter 5: The Accountability Conversation
+# Chapter 5: The accountability conversation
 
 At some point, someone senior will ask why. Why did the AI produce that output? Who authorized it? Who checked it? What would have happened if it had been wrong? These questions arrive in different forms - a board presentation, a regulatory inquiry, an internal audit, a client complaint - but they share a common thread. They're questions about accountability and the answers need to exist before the questions are asked.
 
@@ -6,7 +6,7 @@ This chapter prepares you for that conversation. Not by offering defensive scrip
 
 The good news is that the accountability conversation isn't technically demanding. It doesn't require the board to understand how large language models work. It requires them to understand how the organization is managing the risks. That's a management conversation and managers are well placed to lead it.
 
-## Why Boards Are Asking
+## Why boards are asking
 
 Boards are asking about AI for three reasons and understanding which reason is driving a particular conversation shapes how you respond.
 
@@ -19,7 +19,7 @@ The third is **genuine uncertainty**. Many board members are personally uncertai
 > **MARGIN - Know Which Question They Are Asking**
 > *A board question about AI may be fiduciary duty, stakeholder relay or genuine curiosity. The answer is broadly the same - clear, confident and evidence-based - but knowing which is driving the conversation helps you pitch the level and tone correctly.*
 
-## The Ten Questions a Board Is Likely to Ask
+## The ten questions a board is likely to ask
 
 Board questions about AI tend to cluster into four themes: risk, governance, value and strategy. The ten below are a representative set.
 
@@ -50,7 +50,7 @@ These aren't trick questions. They're the questions a thoughtful non-executive d
 > **MARGIN - Prepare All Ten**
 > *These ten questions are likely to come, in some form, from any engaged board. Prepare written answers to all of them before the conversation. The act of writing the answers surfaces gaps in governance that are better discovered internally than by a non-executive director in a meeting.*
 
-## Who Is Responsible for What
+## Who is responsible for what
 
 Accountability for AI in an organization isn't a single point. It's a stack, with different responsibilities sitting at different levels. Confusion about where accountability sits is one of the most common causes of poor AI governance - and one of the most damaging when something goes wrong.
 
@@ -69,7 +69,7 @@ At the **operational level**, accountability is for individual outputs: followin
 > **MARGIN - Name the Owner**
 > *For every significant AI application in your organization, there should be a named person accountable for its governance. Not a team, not a function - a person. If you cannot name them, the accountability does not exist in practice.*
 
-## Building an Audit Trail
+## Building an audit trail
 
 One of the most practical things a manager can do to prepare for the accountability conversation is to ensure that AI-assisted decisions leave a trail. Not an elaborate one - a proportionate one. The question the audit trail needs to answer is: if this output caused harm, could we show what happened, who was involved and what checks were made?
 
@@ -82,7 +82,7 @@ The audit trail serves two purposes. The first is accountability: it allows the 
 > **MARGIN - Leave a Trail**
 > *For any AI-assisted decision that could later be questioned, record that AI was used, what the output was, what review was applied and who decided. This does not need to be complex. It needs to exist.*
 
-## The Sign-Off Protocol
+## The sign-off protocol
 
 A sign-off protocol is a defined set of rules about what level of human authorization is required before an AI output is acted upon, published or sent. It's the operational expression of the supervision levels discussed in Chapter 3, applied to the specific outputs that matter most in your organization.
 
@@ -97,7 +97,7 @@ The sign-off protocol doesn't need to cover every AI output. It needs to cover t
 > **MARGIN - Define What Sign-Off Means**
 > *A sign-off protocol is only useful if sign-off means something. Specify what the reviewer is checking for, not just that a review occurred. "Reviewed for factual accuracy against primary sources" is a meaningful standard. "Reviewed" is not.*
 
-## Having the Conversation
+## Having the conversation
 
 When the board conversation arrives, the manager who has built genuine governance has far less to fear from it. The answers exist because the decisions were made and documented. The risks are known because they were assessed. The mitigations are in place because they were designed, not improvised.
 
@@ -108,7 +108,7 @@ Three things to avoid in the conversation: overconfidence about what AI can do, 
 > **MARGIN - Specific Beats Vague**
 > *In a board conversation about AI, specific evidence of governance is far more reassuring than general claims about having policies. Know the date the policy was published, the name of the person who owns it and the last time it was reviewed. That specificity signals that the governance is real.*
 
-## Chapter Summary
+## Chapter summary
 
 - Boards ask about AI for three reasons: fiduciary duty, stakeholder pressure and genuine uncertainty. The answer is broadly the same - clear, confident and evidence-based.
 - Ten questions cover the terrain boards are likely to explore: three on risk, three on governance, two on value and two on strategy. Prepare written answers to all ten before the conversation.

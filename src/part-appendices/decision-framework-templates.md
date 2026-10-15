@@ -1,10 +1,10 @@
-# Appendix A: Decision Framework Templates
+# Appendix A: Decision framework templates
 
 This appendix collects the main decision frameworks from across the book in a single reference. Each template is designed to be used directly - in a meeting, a governance review or a planning session. They are starting points, not fixed formats. Adapt them to your organization's terminology and context.
 
 Some frameworks are described in their chapters rather than templated here, such as the build vs buy factors in Chapter 8 and the change conversation in Chapter 9.
 
-## A-1: The Augmentation Audit
+## A-1: The augmentation audit
 
 Use this to map tasks in a role or workflow before deciding what to delegate to AI.
 
@@ -29,7 +29,7 @@ For each significant task, score it High / Medium / Low on two dimensions, then 
 
 *Copy this block for each task in the role or workflow.*
 
-## A-2: The Four-Part Brief Template
+## A-2: The four-part brief template
 
 Use this when briefing your Digital Intern on any task where output quality matters.
 
@@ -53,7 +53,7 @@ What should the output not include? What limits apply?
 
 > Example: *Do not reference specific salary changes. Keep the tone calm and factual. No longer than one page.*
 
-## A-3: The Supervision Level Decision
+## A-3: The supervision level decision
 
 Use this to assign and record supervision levels for AI-assisted tasks.
 
@@ -98,7 +98,7 @@ Use this to assign and record supervision levels for AI-assisted tasks.
 
 *Record the result in the task register (A-8).*
 
-## A-4: The Risk Register
+## A-4: The risk register
 
 Use this to document and manage the seven risks of AI adoption in your organization. Complete one block per risk. Review quarterly.
 
@@ -146,7 +146,7 @@ Use this to document and manage the seven risks of AI adoption in your organizat
 
 **Last reviewed:** _______________________________________________
 
-## A-5: The Business Case Checklist
+## A-5: The business case checklist
 
 Use this before presenting a business case for an AI initiative.
 
@@ -180,7 +180,7 @@ Use this before presenting a business case for an AI initiative.
 - [ ] Review date specified
 - [ ] Named person responsible for reporting
 
-## A-6: The Stage-Gate Questions
+## A-6: The stage-gate questions
 
 Use these at each stage transition to decide whether to proceed, refine or stop. The stages are described in Chapter 8.
 
@@ -210,7 +210,7 @@ Use these at each stage transition to decide whether to proceed, refine or stop.
 
 *All gates should be assessed by someone independent of the team that ran the current stage.*
 
-## A-7: The Ten Board Questions - Prepared Answers Template
+## A-7: The ten board questions - prepared answers template
 
 Use this to prepare for a board-level conversation about AI. Complete before the meeting.
 
@@ -262,7 +262,7 @@ Use this to prepare for a board-level conversation about AI. Complete before the
 
     *Your answer:* _______________________________________________
 
-## A-8: The Task Register
+## A-8: The task register
 
 Use this to record the tasks your organization uses AI for and the supervision level assigned to each (Chapter 3). Complete one block per task or task category. Review quarterly and whenever a review trigger occurs.
 
@@ -278,7 +278,7 @@ Use this to record the tasks your organization uses AI for and the supervision l
 
 **Last reviewed:** _______________________________________________
 
-## A-9: The Audit Trail Record
+## A-9: The audit trail record
 
 Use this for any AI-assisted decision that could later be questioned (Chapter 5). For high-volume, low-stakes work a lightweight log can capture the same four elements.
 
@@ -295,7 +295,7 @@ Use this for any AI-assisted decision that could later be questioned (Chapter 5)
 
 *These records may themselves contain sensitive information. Apply your data policy to them (Chapter 4).*
 
-## A-10: The Sign-Off Protocol
+## A-10: The sign-off protocol
 
 Use this to define what authorization is required before AI output is acted upon, published or sent (Chapter 5).
 
@@ -317,7 +317,7 @@ _______________________________________________
 
 **Review date:** _______________________________________________
 
-## A-11: The Maturity Assessment
+## A-11: The maturity assessment
 
 Use this to assess honestly where your organization sits on the maturity model in Chapter 10. Tick the level whose description best matches reality today, not where you want to be, and note the evidence.
 
@@ -333,7 +333,7 @@ Use this to assess honestly where your organization sits on the maturity model i
 
 **Leadership focus for the next level:** _______________________________________________
 
-## A-12: The Ten Executive Questions - Prepared Answers Template
+## A-12: The ten executive questions - prepared answers template
 
 Use this to test whether your AI program has governance or only activity (Chapter 10). Complete before a leadership review.
 

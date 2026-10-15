@@ -1,4 +1,4 @@
-# Chapter 7: Sector Briefings
+# Chapter 7: Sector briefings
 
 AI adoption doesn't look the same across industries. The use cases that generate most value in financial services are different from those in healthcare. The regulatory constraints facing a law firm are different from those facing a retailer. The risks that matter most in manufacturing are different from those in media.
 
@@ -12,7 +12,7 @@ Figure 7-1 maps the eight sectors covered.
 
 *Figure 7-1. Sector Map.*
 
-## Financial Services
+## Financial services
 
 **Where AI creates most value**
 
@@ -50,7 +50,7 @@ Healthcare AI operates in a complex regulatory environment that varies considera
 > **MARGIN - Healthcare**
 > *AI supports clinicians; it does not replace clinical judgment. Administrative and operational applications are the lowest-risk starting points. Any application that touches clinical decision-making requires careful regulatory assessment before deployment.*
 
-## Legal Services
+## Legal services
 
 **Where AI creates most value**
 
@@ -69,7 +69,7 @@ Legal AI is subject to professional regulation as well as data protection law. B
 > **MARGIN - Legal Services**
 > *Verify every legal reference. No exceptions. Treat client matter data as confidential even when using AI tools with strong data commitments. Check current professional guidance from your bar association or law society before deploying AI in client work.*
 
-## Retail and Consumer
+## Retail and consumer
 
 **Where AI creates most value**
 
@@ -113,7 +113,7 @@ Manufacturing AI intersects with health and safety regulation, product liability
 > **MARGIN - Manufacturing**
 > *AI-generated work instructions and maintenance procedures require higher verification standards than administrative output - they can affect physical safety. Anything touching operational technology needs specialist risk assessment.*
 
-## Media and Communications
+## Media and communications
 
 **Where AI creates most value**
 
@@ -132,7 +132,7 @@ Media AI intersects with copyright law, advertising standards, defamation law an
 > **MARGIN - Media**
 > *Accuracy standards for AI-assisted content are the same as for human-written content. Intellectual property questions around AI-generated content are unsettled - seek current legal advice before publishing AI-generated content at scale.*
 
-## Professional Services
+## Professional services
 
 **Where AI creates most value**
 
@@ -151,7 +151,7 @@ Professional services AI is subject to the regulatory frameworks of the specific
 > **MARGIN - Professional Services**
 > *Client data require the same confidentiality protections whether or not AI is involved in the work. AI-generated client deliverables need checking calibrated to the stakes - a board-level strategy document has different requirements from an internal briefing note.*
 
-## Public Sector
+## Public sector
 
 **Where AI creates most value**
 
@@ -176,7 +176,7 @@ Figure 7-3 shows relative adoption maturity across the sectors.
 
 *Figure 7-3. Adoption Maturity.*
 
-## Chapter Summary
+## Chapter summary
 
 - AI adoption looks different across sectors. Use cases, risks and regulatory contexts vary significantly and require sector-specific thinking.
 - Financial services: strong gains in research, communications and compliance; acute data sensitivity and heavy regulatory oversight.

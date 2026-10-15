@@ -1,4 +1,4 @@
-# Chapter 4: What Can Go Wrong
+# Chapter 4: What can go wrong
 
 Every technology that enters organizational life brings new failure modes. Some are obvious before they arrive. Most aren't. Generative AI has been in widespread organizational use long enough that the failure modes are now reasonably well understood - which puts managers in the unusual position of being able to prepare for them before encountering them firsthand.
 
@@ -8,7 +8,7 @@ This chapter maps seven risks that any organization using generative AI needs to
 
 *Figure 4-1. The Seven Risks.*
 
-## Risk 1: Confident Wrong Answers
+## Risk 1: Confident wrong answers
 
 The intern produces confident, fluent, well-structured output regardless of whether that output is accurate. This isn't a design flaw that's likely to disappear entirely in a future version. It's a consequence of how large language models work: they predict plausible continuations of text rather than looking up verified facts. Tools that add search or retrieval can reduce the problem, but they don't remove it, because the fluent prose that comes back still needs checking. The confidence is a property of the prose, not a signal of accuracy.
 
@@ -19,7 +19,7 @@ The mitigation isn't to distrust everything the intern produces. It's to disting
 > **MARGIN - Verify Before You Rely**
 > *The intern's confidence is a property of the prose, not a signal of accuracy. Any specific claim that will be acted upon or passed to someone else needs to be checked against a primary source. Build verification into the workflow itself, not just the final review.*
 
-## Risk 2: Data Leakage
+## Risk 2: Data leakage
 
 When a manager or employee pastes information into an AI system, that information leaves the organization's controlled environment. What happens to it depends entirely on the policies of the AI provider - which vary considerably and change over time. In some configurations, inputs are used to train future models. In others, they're logged and retained. In still others, they're discarded immediately.
 
@@ -30,7 +30,7 @@ The mitigation has two parts. The first is policy: establishing clear organizati
 > **MARGIN - What Stays In**
 > *Not everything belongs in a brief to your Digital Intern. Client data, unreleased financials, personal data and strategic plans require clear policy guidance before they go anywhere near an external AI system. Set the policy before the incident, not after.*
 
-## Risk 3: Regulatory and Legal Exposure
+## Risk 3: Regulatory and legal exposure
 
 Generative AI intersects with a growing body of regulation in ways that are still being mapped. The areas of current concern include data protection and privacy, intellectual property, consumer protection and product regulation, employment law and sector-specific requirements in areas including healthcare, legal services and financial services.
 
@@ -41,7 +41,7 @@ The mitigation isn't to avoid AI in regulated contexts - its usefulness in those
 > **MARGIN - Map Before You Deploy**
 > *Before using AI in a new context - customer communications, hiring, advice, regulated sectors - ask what regulatory obligations that context creates. Involve legal counsel. The question is not whether the output is useful but whether producing it creates exposure.*
 
-## Risk 4: Bias in Decisions
+## Risk 4: Bias in decisions
 
 Large language models learn from text and text reflects the biases present in the society that produced it. This means that AI outputs can carry and amplify biases related to gender, ethnicity, age, geography and other characteristics - often without those biases being visible in the output itself.
 
@@ -52,7 +52,7 @@ The mitigation requires deliberate intervention. Organizations using AI in decis
 > **MARGIN - Audit What Affects People**
 > *Any AI output used in a decision that affects an individual - hiring, performance, credit, access - needs systematic monitoring for bias. The intern does not know they are producing biased output. The manager cannot assume they are not.*
 
-## Risk 5: Reputational Harm
+## Risk 5: Reputational harm
 
 AI systems can produce output that's embarrassing, offensive, factually wrong or legally problematic - and they can produce it at scale, faster than human review can catch it. The reputational risk isn't from the one document that gets checked before it goes out. It's from the thousand that don't.
 
@@ -63,7 +63,7 @@ The mitigation is to maintain proportionate oversight for the stakes involved. C
 > **MARGIN - Stakes Scale with Audience**
 > *The reputational stakes of AI output are proportional to how many people see it and who they are. Customer-facing content needs human review. Internal drafts have more tolerance for error. Set supervision accordingly.*
 
-## Risk 6: Dependency and Skill Atrophy
+## Risk 6: Dependency and skill atrophy
 
 Organizations that delegate too much to AI too quickly risk losing the human skills that gave the AI outputs their value. A team that has stopped drafting documents from scratch gradually loses its ability to recognize when a draft is poor. A manager who has stopped analyzing data independently gradually loses the judgment needed to know when an analysis is wrong.
 
@@ -74,7 +74,7 @@ The mitigation is to treat certain skills as deliberate practice rather than opt
 > **MARGIN - Keep the Skill**
 > *The judgment that makes AI output valuable is yours, not the intern's. If you stop exercising it, you lose it - and the output quality declines with it, even if you do not notice immediately. Deliberate practice is not inefficiency; it is maintenance.*
 
-## Risk 7: Cost Overrun
+## Risk 7: Cost overrun
 
 AI tools aren't free and the costs aren't always obvious at the point of adoption. Direct costs include API usage fees that scale with volume, subscription costs for tools and platforms and the cost of storage and infrastructure. Indirect costs include the management time spent on oversight, the cost of errors that reach their destination and the cost of building and maintaining the organizational processes that AI requires.
 
@@ -85,7 +85,7 @@ The mitigation is to build realistic cost models before scaling AI use, to monit
 > **MARGIN - Net Value, Not Gross Output**
 > *The value of AI adoption is the net gain after costs - including oversight, correction and management time. Measure it that way. A tool that produces ten times the output at ten times the oversight cost has not transformed the economics.*
 
-## Managing the Seven Risks Together
+## Managing the seven risks together
 
 The seven risks aren't independent. An organization with weak supervision is more exposed to confident wrong answers (Risk 1) reaching their destination and to reputational harm (Risk 5). An organization that hasn't set data policy (Risk 2) may also face regulatory exposure (Risk 3). A team that has allowed skill atrophy (Risk 6) is less able to detect confident wrong answers (Risk 1).
 
@@ -106,7 +106,7 @@ Figure 4-3 pairs each of the seven risks with its principal mitigation, as a qui
 
 *Figure 4-3. Risk and Mitigation Pairs.*
 
-## Chapter Summary
+## Chapter summary
 
 - Generative AI introduces seven manageable risks: confident wrong answers, data leakage, regulatory exposure, bias in decisions, reputational harm, skill atrophy and cost overrun.
 - Each risk has a specific mitigation. None requires abandoning AI adoption - they require managing it deliberately.

@@ -1,4 +1,4 @@
-# Chapter 8: The Roadmap
+# Chapter 8: The roadmap
 
 Most AI initiatives start well. A pilot is run, results are promising, enthusiasm is high. Then something happens. The pilot doesn't become a production system. The production system doesn't scale. The scaling effort consumes more resources than anticipated and delivers less value than projected. Eighteen months after a confident announcement, the organization is roughly where it started, with a smaller budget and more skepticism.
 
@@ -62,7 +62,7 @@ The embed stage has two requirements. The first is that the governance structure
 > **MARGIN - Governance Becomes Process**
 > *An embedded capability has governance built into the workflow, not bolted on as an AI-specific framework. The records still exist, but they are a by-product of how the work is done. If the governance requires a separate project team to maintain it, it has not yet been embedded.*
 
-## Where Initiatives Fail
+## Where initiatives fail
 
 Many AI initiatives fail at the transition between stages rather than within a stage. Understanding where the common failure points are makes them avoidable.
 
@@ -79,7 +79,7 @@ Many AI initiatives fail at the transition between stages rather than within a s
 > **MARGIN - Design for the Next Stage**
 > *Each stage should be designed with the next stage in mind. An experiment that was not designed for a production environment is unlikely to survive the transition. A proof that was not designed for scaling is unlikely to scale.*
 
-## The Build vs Buy Decision
+## The build vs buy decision
 
 At some point in the roadmap, most organizations face a build versus buy decision: do we use a general-purpose AI tool from a vendor or do we build something specific to our needs?
 
@@ -94,7 +94,7 @@ The fourth is speed: how quickly does the organization need the capability and h
 > **MARGIN - Eighty Percent Now**
 > *A vendor tool that meets eighty percent of the need today can deliver more value than a custom solution that meets a hundred percent of the need in eighteen months. The gap between eighty and a hundred percent often narrows as you learn how to use the tool well.*
 
-## The Stage-Gate Checklist
+## The stage-gate checklist
 
 A stage-gate is a defined checkpoint at which the organization decides whether to proceed to the next stage, refine the current stage or stop. Stage-gates are the mechanism that prevents initiatives from drifting forward by momentum rather than by evidence.
 
@@ -109,7 +109,7 @@ The stage-gate checklist should be completed by someone who wasn't responsible f
 > **MARGIN - Independent Review**
 > *Stage-gate assessment should not be done by the person who ran the stage. Investment in a stage's success makes objective assessment difficult. A brief review by someone independent, even a colleague, produces a more honest picture.*
 
-## Chapter Summary
+## Chapter summary
 
 - Many AI initiatives fail at stage transitions rather than within a stage. The roadmap makes the transitions explicit and manageable.
 - Stage 1 (Experiment): answer three questions - does the output meet the quality bar, can the organization use it effectively and do the economics work at scale?

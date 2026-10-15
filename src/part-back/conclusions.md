@@ -4,7 +4,7 @@ At the start of this book, we introduced a metaphor: your Digital Intern. Brilli
 
 That metaphor has carried us through ten chapters, from the basics of what the intern actually knows to the strategic challenge of leading an organization where AI is everywhere. It's time to bring it home.
 
-## What You Have Learned
+## What you have learned
 
 You've learned that the intern's confidence isn't a signal of accuracy and that the fluency of the output is no guarantee of the correctness of what it contains. You've learned to brief the intern well - to give clear instructions, relevant context and defined constraints - because the quality of what you get out is largely determined by the quality of what you put in.
 
@@ -14,7 +14,7 @@ You've learned where to start - with high-volume, low-irreversibility tasks done
 
 And you've learned that augmentation isn't addition. Adding AI to existing work produces modest gains. Redesigning work around what AI and people each do best produces something more substantial - if you manage the transition thoughtfully, redesign the metrics alongside the work and have the honest conversations with your team that the change requires.
 
-## What Has Not Changed
+## What has not changed
 
 Through all of this, one thing hasn't changed: the management fundamentals.
 
@@ -24,7 +24,7 @@ These are the skills this book has asked you to apply to a new kind of colleague
 
 The intern isn't a replacement for management judgment. The intern is a reason to exercise it more deliberately.
 
-## What Comes Next
+## What comes next
 
 AI capabilities are likely to keep developing, possibly faster than in recent years. The systems available to managers in a few years are likely to be more capable than the ones this book was written about, in ways that aren't fully predictable today.
 
@@ -32,7 +32,7 @@ What is predictable is that the organizations that manage those systems well wil
 
 The intelligent enterprise isn't a destination. It's a practice - the ongoing, deliberate management of AI as it becomes more capable and more embedded in organizational life. It requires the same things it has always required: clear thinking, honest assessment and the willingness to keep improving.
 
-## A Final Word on the Intern
+## A final word on the intern
 
 The underlying models are likely to keep improving, and the improvements are likely to be significant. The intern doesn't gain experience inside your organization, as Chapter 2 noted, but new generations of AI systems are likely to be more capable than today's. Tasks that currently require careful supervision are likely to become more reliable. Some tasks that currently require human judgment may come to look like candidates for delegation. The categories in Chapter 3 - decisions that affect individuals, outputs with legal or regulatory exposure and novel situations - will stay with people however capable the intern becomes.
 

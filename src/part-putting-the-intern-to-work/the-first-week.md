@@ -1,4 +1,4 @@
-# Chapter 6: The First Week
+# Chapter 6: The first week
 
 The most common mistake organizations make when adopting AI is starting with the wrong question. The question they ask is: what can AI do? The question they should ask is: what do we spend time on that AI could handle and what would we do with the time we got back?
 
@@ -6,7 +6,7 @@ These are different questions. The first leads to experiments. The second leads 
 
 This chapter is about finding the results quickly, without the expensive detour through experiments that consume budget, generate enthusiasm and produce nothing durable. The "first week" in the title is a mindset rather than a timeline. It means the period before your organization has developed habits, assumptions or sunk costs around AI - the window when clear thinking is easiest and the cost of changing direction is lowest. That window closes quickly. Use it well.
 
-## The Quick Win Trap
+## The quick win trap
 
 There's a category of AI adoption that looks like success but isn't. A team tries AI for drafting emails and finds it saves fifteen minutes a day. They report this upward. The initiative is declared a success. Budget is allocated. A center of excellence is formed. A year later, the organization has spent considerably more than the value of those fifteen-minute savings and the underlying work hasn't changed in any meaningful way.
 
@@ -19,7 +19,7 @@ A scalable win has three properties. It applies to a large enough volume of work
 > **MARGIN - Quick Win or Scalable Win?**
 > *Before calling something a success, ask: does this apply at volume, does it improve with use and does it free time that was genuinely constrained? A quick win that fails all three is a demonstration, not a result.*
 
-## Finding the Right Starting Points
+## Finding the right starting points
 
 The right starting points for AI adoption share a common profile. They're tasks that are high in volume, low in irreversibility and currently handled by people whose time is more valuable than the task deserves.
 
@@ -32,7 +32,7 @@ The people mismatch matters because time is the scarce resource the organization
 > **MARGIN - The Profile**
 > *High volume, low irreversibility, done by people whose time is too valuable for it. If a task fits all three, it is a genuine starting point. If it fits one or two, it may still be worth doing - but manage expectations accordingly.*
 
-## The Quick Win Filter
+## The quick win filter
 
 Before committing resources to any AI initiative, run it through a simple filter. The filter has two dimensions: the value of getting it right and the effort required to implement it responsibly.
 
@@ -51,7 +51,7 @@ Low value, high effort: don't start. These are the initiatives that emerge from 
 > **MARGIN - Filter First**
 > *Apply the filter before the pilot. A pilot that was always going to be low value and high effort is not a learning opportunity - it is an expensive way to confirm something that clear thinking would have revealed in advance.*
 
-## The Real Cost of an AI Initiative
+## The real cost of an AI initiative
 
 The business case for an AI initiative almost always underestimates cost. This isn't dishonesty - it's the result of making the visible costs the basis for the calculation while leaving the invisible costs out of the model.
 
@@ -70,7 +70,7 @@ The third invisible cost is error correction. Some proportion of AI outputs will
 > **MARGIN - Model the Full Cost**
 > *Tool fees plus oversight plus process change plus error correction. That is the full cost model. A business case that only includes tool fees is not a business case - it is an optimistic estimate masquerading as one.*
 
-## Building a Business Case That Will Survive Scrutiny
+## Building a business case that will survive scrutiny
 
 A business case for an AI initiative that survives scrutiny has four components: a clear statement of the problem being solved, a realistic estimate of costs including the invisible ones, a credible estimate of benefits including the assumptions behind them and a set of success metrics that will allow the organization to know whether the initiative has delivered what was promised.
 
@@ -89,7 +89,7 @@ Figure 6-3 shows how the benefit and cost assumptions combine into a return on i
 > **MARGIN - The Survivor Test**
 > *Read the business case as a skeptical CFO would. Is the problem real and specific? Are the costs complete? Are the benefit assumptions explicit and defensible? Are there success metrics with a date? If the answer to any of these is no, the case is not ready.*
 
-## Starting Small and Learning Fast
+## Starting small and learning fast
 
 The right approach to the first wave of AI adoption is a portfolio of small, focused initiatives rather than a single large transformation. Small initiatives are faster to start, easier to evaluate and cheaper to stop if they don't deliver. They also produce learning - about how the intern performs on specific task types in your organization's specific context - that can't be obtained any other way.
 
@@ -100,7 +100,7 @@ That map is the most valuable output of the first wave. It tells you what to exp
 > **MARGIN - Build the Map**
 > *The goal of the first wave is not transformation. It is a map of where AI creates genuine value in your context. That map, built through small focused initiatives and honest evaluation, is worth more than any single large initiative that has not been tested.*
 
-## Chapter Summary
+## Chapter summary
 
 - The right question is not what AI can do but what the organization spends time on that AI could handle and what the recovered time would be used for.
 - Distinguish scalable wins from quick wins: scalable wins apply at volume, improve with use and free genuinely constrained time.

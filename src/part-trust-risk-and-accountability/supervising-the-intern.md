@@ -1,4 +1,4 @@
-# Chapter 3: Supervising the Intern
+# Chapter 3: Supervising the intern
 
 Every manager who has hired a capable but inexperienced person has faced the same question: how much rope do you give them? Too little and you waste their potential, spend your own time doing work they could handle and signal that you don't trust them to deliver. Too much and you expose your organization to avoidable mistakes, find yourself fixing errors that should have been caught and lose the confidence of clients or colleagues who expected more control.
 
@@ -6,7 +6,7 @@ The same question applies to your Digital Intern and the stakes are higher than 
 
 This chapter gives you a framework for answering that question consistently.
 
-## The Supervision Spectrum
+## The supervision spectrum
 
 It helps to think of supervision not as a binary choice between full control and full autonomy, but as a spectrum with several distinct positions. Most organizations, once they understand the spectrum, find that different tasks belong at different points on it.
 
@@ -17,7 +17,7 @@ The right position on this spectrum isn't fixed. It changes as you learn more ab
 > **MARGIN - The Supervision Spectrum**
 > *Full supervision at one end. Full autonomy at the other. Most tasks belong somewhere in the middle and the right position depends on the stakes of getting it wrong. Start closer to full supervision. Move toward autonomy only when you have evidence it is safe to do so.*
 
-## Four Supervision Levels
+## Four supervision levels
 
 Four positions on the spectrum are worth naming precisely, because they correspond to four distinct management postures.
 
@@ -36,7 +36,7 @@ Four positions on the spectrum are worth naming precisely, because they correspo
 > **MARGIN - Which Level?**
 > *Ask two questions for any task: what is the cost if the output is wrong and how detectable is an error before it causes harm? High cost or low detectability means a higher supervision level. Low cost and high detectability allows you to move down the spectrum.*
 
-## What Makes a Task Safe to Delegate
+## What makes a task safe to delegate
 
 Not all tasks are equal candidates for reduced supervision. Four factors determine how safely a task can be delegated to the intern with less oversight.
 
@@ -55,7 +55,7 @@ Not all tasks are equal candidates for reduced supervision. Four factors determi
 > **MARGIN - The Delegation Test**
 > *Before reducing supervision on any task, ask: is this reversible, verifiable, low-stakes and familiar? If the answer to all four is yes, reduced supervision is reasonable. If the answer to any one is no, think carefully before stepping back.*
 
-## The Autonomy Trap
+## The autonomy trap
 
 There's a predictable pattern in how organizations adopt AI tools. In the early period, supervision is high. Over time, as the intern produces consistently good output on familiar tasks, supervision naturally relaxes. This is rational. What's less rational is the tendency for relaxed supervision to drift into absent supervision and for the scope of tasks delegated to the intern to expand without the supervision level being reset for the new task types.
 
@@ -66,7 +66,7 @@ The defense against the autonomy trap is simple but requires discipline. Supervi
 > **MARGIN - Reset the Defaults**
 > *When a task changes scope, treat it as a new task. The intern's track record on the old version does not transfer automatically. Supervision levels should be set deliberately, not inherited.*
 
-## Safety and the Limits of Intern Judgment
+## Safety and the limits of intern judgment
 
 There are categories of output where supervision isn't merely good practice but a hard requirement, regardless of how reliably the intern has performed in the past.
 
@@ -79,7 +79,7 @@ The third is outputs in novel or ambiguous situations. The intern performs best 
 > **MARGIN - The Non-Negotiables**
 > *Decisions that affect individuals, outputs with legal or regulatory exposure and novel situations where the right answer is genuinely uncertain - these require human review regardless of supervision level. They are not candidates for delegation.*
 
-## Building a Supervision Framework
+## Building a supervision framework
 
 A supervision framework doesn't need to be complex. What it needs to do is make supervision levels explicit, assign responsibility clearly and provide a mechanism for review.
 
@@ -94,7 +94,7 @@ This doesn't require a large governance structure. For most organizations starti
 > **MARGIN - Write It Down**
 > *A supervision framework that exists only in people's heads is not a framework. Write down which tasks your intern handles, at what supervision level and who is responsible. Review it quarterly. The document is evidence that you are managing this thoughtfully - which matters when someone asks.*
 
-## Chapter Summary
+## Chapter summary
 
 - Supervision is a spectrum, not a binary choice. Different tasks belong at different points on it.
 - Four supervision levels cover most situations: review everything, spot check, exception-based review and autonomous operation.

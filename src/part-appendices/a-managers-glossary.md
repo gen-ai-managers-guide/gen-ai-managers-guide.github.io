@@ -1,4 +1,4 @@
-# Appendix B: A Manager's Glossary
+# Appendix B: A manager's glossary
 
 This glossary defines the thirty terms a manager is most likely to encounter in AI conversations. Definitions are written for the boardroom, not the machine room. Technical precision has been traded for useful clarity.
 

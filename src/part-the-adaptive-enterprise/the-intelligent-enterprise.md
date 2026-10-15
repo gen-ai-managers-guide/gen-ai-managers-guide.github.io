@@ -1,4 +1,4 @@
-# Chapter 10: The Intelligent Enterprise
+# Chapter 10: The intelligent enterprise
 
 There's a difference between an organization that uses AI and an organization that has learned to use AI well. The first has tools. The second has capability. Tools can be switched off, replaced or rendered obsolete by the next generation of technology. Capability - the organizational knowledge of how to direct AI effectively, how to manage its risks and how to extract genuine value from it - persists and compounds.
 
@@ -6,7 +6,7 @@ This chapter is about what it takes to lead the second kind of organization. Not
 
 That's a different kind of challenge and it requires a different kind of leadership posture.
 
-## The Leadership Shift
+## The leadership shift
 
 In the early stages of AI adoption, the leadership challenge is primarily managerial: identify good use cases, run good experiments, build appropriate governance. These are the challenges this book has addressed in the chapters that came before. They require good judgment, organizational discipline and a willingness to invest in governance that doesn't always feel urgent.
 
@@ -21,7 +21,7 @@ The third is from adoption to adaptation: the AI landscape will continue to chan
 > **MARGIN - Project to Policy**
 > *The transition from project to policy is the moment AI governance stops being a special initiative and becomes part of how the organization runs. It requires explicit management attention - it does not happen automatically when enough pilots succeed.*
 
-## The AI Maturity Model
+## The AI maturity model
 
 Most organizations are somewhere on a journey from ad hoc AI use to genuine organizational capability. Understanding where your organization is on that journey is the first step to leading it deliberately toward the next stage.
 
@@ -46,7 +46,7 @@ Figure 10-1 shows the five levels.
 > **MARGIN - Know Your Level**
 > *Honest assessment of where the organization currently sits is more useful than aspirational claims about where it wants to be. The level determines the right focus for leadership attention - governance at Level 2, optimization at Level 3, adaptability at Level 4.*
 
-## The Ten Questions an Executive Should Be Able to Answer
+## The ten questions an executive should be able to answer
 
 Just as Chapter 5 prepared managers for board-level questions about AI, this chapter prepares executives for the questions that define genuine AI leadership. These aren't the oversight questions a board asks - they're the strategic questions an executive should be asking themselves.
 
@@ -72,7 +72,7 @@ An executive who can't answer these questions confidently may have activity rath
 > **MARGIN - Activity Is Not Governance**
 > *An AI program that produces reports, runs pilots and holds governance committee meetings may or may not have genuine governance. The test is whether the executive can answer the ten questions. If not, the program may have activity rather than governance.*
 
-## Building Organizational Capability
+## Building organizational capability
 
 The most important strategic choice an executive makes about AI isn't which tools to adopt. It's how much of the capability to build inside the organization versus how much to depend on vendors and consultants.
 
@@ -95,7 +95,7 @@ Figure 10-3 contrasts organizational capability with vendor dependency.
 > **MARGIN - Own the Understanding**
 > *The capability that matters is not the tool - it is the organizational understanding of how to use the tool well, evaluate its output honestly and govern its use safely. That understanding must live in the organization, not in a vendor relationship that can be ended.*
 
-## Strategy at the Speed of AI
+## Strategy at the speed of AI
 
 AI capabilities are developing faster than most organizations' strategy cycles. A multi-year technology strategy can be partly out of date within a year or two. An organization that sets its AI strategy and then executes against it unchanged for years will find that the strategy no longer fits the environment it was designed for.
 
@@ -110,7 +110,7 @@ The organization that can think strategically about AI without being locked into
 > **MARGIN - Principles over Plans**
 > *Set principles that hold across technological change: risk appetite, human judgment requirements, data policy. Manage specific implementations on shorter cycles. A detailed multi-year AI implementation plan is likely to need revising. A clear set of principles is likely to remain useful.*
 
-## The Manager's Enduring Role
+## The manager's enduring role
 
 Throughout this book, the Digital Intern metaphor has carried the argument that managing AI is, at its core, a management challenge - not a technical one. The intern is capable, tireless and well-read. They need clear instructions, appropriate supervision, honest assessment of their limitations and a manager who knows what to keep.
 
@@ -123,7 +123,7 @@ That's the intelligent enterprise. And building it is, first and last, a managem
 > **MARGIN - The Intern Gets Better**
 > *As new AI systems become more capable, the premium on good management judgment is likely to increase rather than decrease. A more capable intern given poor direction produces more capable poor output. The management challenge scales with the technology.*
 
-## Chapter Summary
+## Chapter summary
 
 - The leadership challenge shifts from project management to policy, from oversight to culture and from adoption to adaptation as AI becomes embedded across the organization.
 - Five levels of AI maturity run from experimental to adaptive. Honest assessment of current level determines the right focus for leadership attention.

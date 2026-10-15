@@ -1,10 +1,10 @@
-# Appendix C: Further Reading
+# Appendix C: Further reading
 
 This appendix points to the most useful books, papers and resources for managers who want to go deeper on specific topics. Each entry includes a brief note on what makes it worth reading and, where relevant, which part of this book it relates to. Resources are organized by theme rather than chapter, since most span more than one area.
 
 The AI landscape moves quickly. Online resources in particular may have changed since this list was compiled. Where possible, pointers are to primary sources or established publications that are likely to remain accessible.
 
-## Understanding AI: The Mental Model
+## Understanding AI: The mental model
 
 For managers who want a deeper technical foundation without becoming engineers, these resources explain how large language models work at a level that is genuinely useful without being overwhelming.
 
@@ -17,7 +17,7 @@ A plain-language walkthrough of how language models represent words, process tex
 **"What Is ChatGPT Doing... and Why Does It Work?"** - Stephen Wolfram (2023)
 A long, careful walkthrough of how language models work, from someone who has thought deeply about computation. More demanding than the Ars Technica piece but more thorough. Available free on Wolfram's website.
 
-## AI Strategy and Leadership
+## AI strategy and leadership
 
 For the strategic and leadership dimensions covered in Chapters 9 and 10.
 
@@ -27,7 +27,7 @@ Written before the current generation of generative AI but prescient about the o
 **"Power and Prediction: The Disruptive Economics of Artificial Intelligence"** - Ajay Agrawal, Joshua Gans and Avi Goldfarb (Harvard Business Review Press, 2022)
 A rigorous treatment of AI as a technology that reduces the cost of prediction and what that means for organizational strategy. Useful for thinking through where AI creates competitive advantage and where it does not.
 
-## Governance and Risk
+## Governance and risk
 
 For the governance frameworks and risk management covered in Chapters 3, 4 and 5.
 
@@ -46,7 +46,7 @@ The US government's framework for managing AI risk. Comprehensive and well-struc
 **"The Age of Surveillance Capitalism"** - Shoshana Zuboff (PublicAffairs, 2019)
 A challenging read, but useful context for managers thinking about data governance and the political economy of data. Its relevance to AI is indirect. Most relevant to Chapters 4 and 5.
 
-## Augmentation and the Future of Work
+## Augmentation and the future of work
 
 For the people and organizational dimensions covered in Chapters 9 and 10.
 
@@ -56,14 +56,14 @@ A historical perspective on how technology transitions affect labor markets. Sob
 **"The Work of the Future: Building Better Jobs in an Age of Intelligent Machines"** - David Autor, David Mindell and Elisabeth Reynolds (MIT Press, 2022)
 An empirically grounded examination of how AI and automation are reshaping labor markets, with policy implications. Useful for managers thinking about workforce strategy.
 
-## The Wider Debate
+## The wider debate
 
 This book doesn't take a position on the long-term questions about AI, but readers who want to explore them have good starting points.
 
 **"Human Compatible: Artificial Intelligence and the Problem of Control"** - Stuart Russell (Viking, 2019)
 Written by one of the leading AI researchers, this book argues for a fundamental rethink of how AI systems are designed to ensure they remain aligned with human values. Highly readable for non-specialists, though it is a long-term view of AI rather than a management guide.
 
-## Sector-Specific Resources
+## Sector-specific resources
 
 For the sector context covered in Chapter 7. These are starting points rather than comprehensive guides - each sector has a substantial literature of its own, and regulators and professional bodies update their guidance regularly, so check the current position for your jurisdiction.
 
@@ -77,7 +77,7 @@ For the sector context covered in Chapter 7. These are starting points rather th
 
 **Retail, manufacturing, media and professional services:** Trade associations and professional bodies in your sector are the best starting point, alongside the relevant regulators, such as consumer protection authorities, health and safety bodies, copyright and press bodies, and accounting or engineering institutes.
 
-## Practical Prompting and Briefing
+## Practical prompting and briefing
 
 For the practical skills covered in Chapter 2.
 
@@ -87,7 +87,7 @@ Anthropic publishes detailed guidance on effective prompting for Claude. Practic
 **"Prompt Engineering Guide"** - DAIR.AI
 A comprehensive open-source guide to prompt engineering techniques. More technical than Chapter 2 of this book but a useful reference for teams who want to systematize their briefing practices. Available free at promptingguide.ai.
 
-## Staying Current
+## Staying current
 
 The AI landscape changes faster than any book can track. These sources are worth following for ongoing developments.
 

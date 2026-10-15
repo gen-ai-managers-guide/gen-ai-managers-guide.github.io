@@ -1,4 +1,4 @@
-# Chapter 1: What Your Digital Intern Actually Knows
+# Chapter 1: What your digital intern actually knows
 
 > **MARGIN - Meet Your Intern**
 > *A consistent thread runs through every margin in this book. You have just hired a Digital Intern. Brilliant, tireless, eager to help - and in need of careful management. Each margin note translates the chapter's ideas into what they mean for you, the manager, as you take on a new member of staff.*
@@ -9,7 +9,7 @@ The result is a peculiar situation. Executives are approving AI budgets, signing
 
 You don't need to know how a large language model (the technology behind today's generative AI tools) works to manage one effectively. You do need to know what it's like to work with one - its habits, its tendencies, its characteristic strengths and its equally characteristic failures. That's what this chapter is for.
 
-## The Intern Who Read Everything
+## The intern who read everything
 
 Imagine you've hired an intern. Before their first day, this intern spent several years reading. Not casually - comprehensively. They read books, articles, research papers, contracts, instruction manuals, court judgments, recipes, technical specifications and an enormous quantity of text from the internet. By the time they arrive at your desk, they've encountered more written material than any human being could absorb in a lifetime.
 
@@ -17,7 +17,7 @@ The result is genuinely impressive. Ask them to draft a client email and they'll
 
 They're also, in ways that are important to understand, not quite like anyone you've managed before.
 
-## What the Intern Learned - and How
+## What the intern learned - and how
 
 The intern's knowledge came entirely from text. This sounds obvious but has consequences that are easy to miss.
 
@@ -34,7 +34,7 @@ It also means their knowledge has edges that can be hard to detect. The intern l
 > **MARGIN - First Week Observation**
 > *Your new intern is extraordinarily well-read. They will rarely say they don't know something - and that confidence is not always earned. In the first week, check their work more carefully than their fluency suggests you need to.*
 
-## The Confidence Problem
+## The confidence problem
 
 The most important thing to understand about your Digital Intern is that they don't signal uncertainty the way people do.
 
@@ -53,7 +53,7 @@ The managerial implication is direct. You wouldn't send a new hire's first draft
 > **MARGIN - The Confident Wrong Answer**
 > *The intern will occasionally give you a wrong answer delivered with total confidence. This is not dishonesty - the tone simply won't tell you which answers are sound. Your job is to build checking into the workflow, not to hope the intern will flag it.*
 
-## No Memory Between Tasks
+## No memory between tasks
 
 There's another characteristic that managers find counterintuitive until they encounter it directly: by default, your Digital Intern doesn't remember previous conversations.
 
@@ -74,7 +74,7 @@ For managers accustomed to working with teams who accumulate shared context over
 > **MARGIN - Brief Them Every Time**
 > *Don't assume your Digital Intern remembers anything from yesterday. Include the relevant context in every task you give them. This is not inefficient - it is the price of a colleague who never leaves, never tires and never brings yesterday's bad mood to today's work. Chapter 2 shows how to make this routine with reusable briefs.*
 
-## What the Intern Is Actually Good At
+## What the intern is actually good at
 
 Given these limitations, it's worth being specific about where the Digital Intern genuinely excels - because the list is substantial.
 
@@ -91,7 +91,7 @@ Given these limitations, it's worth being specific about where the Digital Inter
 > **MARGIN - Where to Start**
 > *Give your Digital Intern the tasks that involve producing a first version of something, transforming content from one form to another or doing the same thing reliably at scale. These are their strongest contributions in the first few weeks.*
 
-## What the Intern Cannot Do
+## What the intern cannot do
 
 There are things the intern will attempt that they shouldn't be given unsupervised. Understanding these is as important as understanding their strengths.
 
@@ -106,7 +106,7 @@ There are things the intern will attempt that they shouldn't be given unsupervis
 > **MARGIN - What to Keep**
 > *The final decision, the verified fact, the judgment call, the thing that will go out under your name or your organization's name - keep these. The intern prepares the ground. You make the call.*
 
-## The Right Mental Model
+## The right mental model
 
 There's a temptation, when encountering AI for the first time, to reach for either extreme. Either it's a remarkable oracle that knows everything and can be trusted implicitly or it's an unreliable gimmick that produces confident nonsense and can't be trusted at all. Both views lead to poor management.
 
@@ -121,7 +121,7 @@ Those are managerial questions. They have managerial answers.
 > **MARGIN - The Governing Principle**
 > *Your Digital Intern is capable and worth managing well. The skills you already have - setting clear expectations, checking outputs, defining what requires your sign-off - are exactly the skills this requires. The technology is new. The management is not.*
 
-## Chapter Summary
+## Chapter summary
 
 - A large language model learns from text. Its knowledge is broad, fluent and uneven - comprehensive in some areas, thin or skewed in others.
 - It produces confident answers regardless of whether those answers are correct. The fluency is not a signal of accuracy.
