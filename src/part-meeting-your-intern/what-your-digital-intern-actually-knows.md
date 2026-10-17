@@ -1,4 +1,4 @@
-# Chapter 1: What your digital intern actually knows
+# Chapter 1: What Your Digital Intern Actually Knows
 
 > **MARGIN - Meet Your Intern**
 > *A consistent thread runs through every margin in this book. You have just hired a Digital Intern. Brilliant, tireless, eager to help - and in need of careful management. Each margin note translates the chapter's ideas into what they mean for you, the manager, as you take on a new member of staff.*

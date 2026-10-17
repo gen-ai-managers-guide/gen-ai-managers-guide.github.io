@@ -1,4 +1,4 @@
-# Chapter 7: Sector briefings
+# Chapter 7: Sector Briefings
 
 AI adoption doesn't look the same across industries. The use cases that generate most value in financial services are different from those in healthcare. The regulatory constraints facing a law firm are different from those facing a retailer. The risks that matter most in manufacturing are different from those in media.
 

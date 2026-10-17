@@ -1,4 +1,4 @@
-# Chapter 5: The accountability conversation
+# Chapter 5: The Accountability Conversation
 
 At some point, someone senior will ask why. Why did the AI produce that output? Who authorized it? Who checked it? What would have happened if it had been wrong? These questions arrive in different forms - a board presentation, a regulatory inquiry, an internal audit, a client complaint - but they share a common thread. They're questions about accountability and the answers need to exist before the questions are asked.
 

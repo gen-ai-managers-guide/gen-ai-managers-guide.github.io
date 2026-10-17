@@ -1,4 +1,4 @@
-# Chapter 4: What can go wrong
+# Chapter 4: What Can Go Wrong
 
 Every technology that enters organizational life brings new failure modes. Some are obvious before they arrive. Most aren't. Generative AI has been in widespread organizational use long enough that the failure modes are now reasonably well understood - which puts managers in the unusual position of being able to prepare for them before encountering them firsthand.
 

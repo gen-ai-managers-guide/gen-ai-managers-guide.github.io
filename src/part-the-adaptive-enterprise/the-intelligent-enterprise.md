@@ -1,4 +1,4 @@
-# Chapter 10: The intelligent enterprise
+# Chapter 10: The Intelligent Enterprise
 
 There's a difference between an organization that uses AI and an organization that has learned to use AI well. The first has tools. The second has capability. Tools can be switched off, replaced or rendered obsolete by the next generation of technology. Capability - the organizational knowledge of how to direct AI effectively, how to manage its risks and how to extract genuine value from it - persists and compounds.
 

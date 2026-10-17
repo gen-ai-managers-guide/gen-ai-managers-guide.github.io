@@ -1,4 +1,4 @@
-# Appendix A: Decision framework templates
+# Appendix A: Decision Framework Templates
 
 This appendix collects the main decision frameworks from across the book in a single reference. Each template is designed to be used directly - in a meeting, a governance review or a planning session. They are starting points, not fixed formats. Adapt them to your organization's terminology and context.
 

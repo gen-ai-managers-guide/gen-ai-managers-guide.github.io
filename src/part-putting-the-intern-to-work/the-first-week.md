@@ -1,4 +1,4 @@
-# Chapter 6: The first week
+# Chapter 6: The First Week
 
 The most common mistake organizations make when adopting AI is starting with the wrong question. The question they ask is: what can AI do? The question they should ask is: what do we spend time on that AI could handle and what would we do with the time we got back?
 

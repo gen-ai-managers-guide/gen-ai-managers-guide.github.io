@@ -1,4 +1,4 @@
-# Chapter 3: Supervising the intern
+# Chapter 3: Supervising the Intern
 
 Every manager who has hired a capable but inexperienced person has faced the same question: how much rope do you give them? Too little and you waste their potential, spend your own time doing work they could handle and signal that you don't trust them to deliver. Too much and you expose your organization to avoidable mistakes, find yourself fixing errors that should have been caught and lose the confidence of clients or colleagues who expected more control.
 

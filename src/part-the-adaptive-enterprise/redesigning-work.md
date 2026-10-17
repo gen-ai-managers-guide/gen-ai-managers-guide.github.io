@@ -1,4 +1,4 @@
-# Chapter 9: Redesigning work
+# Chapter 9: Redesigning Work
 
 Augmentation is a word that has been used so often in discussions of AI that it has started to lose its meaning. It has become a reassurance - a way of saying that AI will help rather than replace - without specifying what help actually looks like in practice or what changes when a capable AI system joins the workflow.
 

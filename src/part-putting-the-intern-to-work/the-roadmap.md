@@ -1,4 +1,4 @@
-# Chapter 8: The roadmap
+# Chapter 8: The Roadmap
 
 Most AI initiatives start well. A pilot is run, results are promising, enthusiasm is high. Then something happens. The pilot doesn't become a production system. The production system doesn't scale. The scaling effort consumes more resources than anticipated and delivers less value than projected. Eighteen months after a confident announcement, the organization is roughly where it started, with a smaller budget and more skepticism.
 

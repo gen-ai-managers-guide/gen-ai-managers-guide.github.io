@@ -1,4 +1,4 @@
-# Chapter 2: The briefing room
+# Chapter 2: The Briefing Room
 
 Most managers discover quickly that their Digital Intern is capable of producing very different quality work depending on how they're asked. The same intern who delivers a sharp, well-structured analysis in one conversation produces something vague and generic in another. The task was similar. The intern was the same. What changed was the quality of the brief.
 

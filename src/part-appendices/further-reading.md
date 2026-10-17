@@ -1,4 +1,4 @@
-# Appendix C: Further reading
+# Appendix C: Further Reading
 
 This appendix points to the most useful books, papers and resources for managers who want to go deeper on specific topics. Each entry includes a brief note on what makes it worth reading and, where relevant, which part of this book it relates to. Resources are organized by theme rather than chapter, since most span more than one area.
 
